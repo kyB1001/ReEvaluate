@@ -1,0 +1,1351 @@
+Beds,Baths,Square Feet,lotSize,Property Type,Listing Price,Address,city
+3,3,1672,1804,Townhouse,429900,7038 Cadiz Blvd,Orlando
+3,3,1720,4306,Townhouse,480000,11818 Kipper Dr,Orlando
+3,3,1682,934,Townhouse,354999,3522 Shallot Dr #105,Orlando
+3,2,1244,10014,Residential - Single Family,415000,3320 Hargill Dr,Orlando
+NaN,NaN,13587,NaN,Land,679900,205 E New Hampshire St,Orlando
+2,1,1260,5945,Residential - Single Family,395000,919 Mayfair Cir,Orlando
+3,2,1316,6894,Residential - Single Family,514900,1638 Mount Vernon St,Orlando
+1,1,644,5615,Condominium,150000,320 Lakeview St #107,Orlando
+4,3,2139,5618,Residential - Single Family,610000,1602 Page Ave,Orlando
+3,2,2005,7615,Residential - Single Family,649000,11859 Gennaro Ln,Orlando
+3,2,1253,10163,Condominium,173900,4518 Commander Dr #1922,Orlando
+2,1,1296,3137,Condominium,285000,727 Hayden Ln #727,Orlando
+1,1,580,11484,Condominium,139900,5501 Rosebriar Way #201,Orlando
+2,2,1785,83466,Condominium,499000,151 E Washington St #3C,Orlando
+2,3,1230,947,Townhouse,360000,5086 Ernst Ct #35,Orlando
+2,2,1392,83466,Condominium,250000,151 E Washington St #504,Orlando
+5,4,2848,7003,Residential - Single Family,1200000,1907 Illinois St,Orlando
+3,2,1620,11564,Residential - Single Family,499900,730 Briercliff Dr,Orlando
+2,2,992,7086,Condominium,95000,2753 L B Mcleod Road 2753 #2753  A,Orlando
+2,2,1400,547309,Condominium,239900,4222 Lake Underhill Rd #C,Orlando
+3,2,1250,6349,Residential - Single Family,297000,4443 Prince Hall Blvd,Orlando
+1,1,739,93940,Condominium,240000,204 E South St #5053,Orlando
+4,3,2906,34630,Residential - Single Family,1450000,6643 Hidden Beach Cir,Orlando
+1,1,715,10380,Condominium,140000,792 E Michigan St #14,Orlando
+2,3,1548,3674,Condominium,260000,6648 Time Square Ave # 102,Orlando
+3,1,824,5807,Residential - Single Family,249900,1211 Dewey Ave,Orlando
+5,4,4330,9118,Residential - Single Family,839900,14986 Fells Ln,Orlando
+4,2,1295,6619,Residential - Single Family,269000,1314 Carlsbad Pl,Orlando
+1,1,850,10504,Condominium,175000,3701 Conroy Rd #1834,Orlando
+1,1,715,3668,Condominium,299750,155 S Court Ave #2004,Orlando
+2,1,810,11484,Condominium,170000,5501 Rosebriar Way #305,Orlando
+5,5,3606,7534,Residential - Single Family,999000,13342 Panama Beach Ct,Orlando
+2,1,939,7126,Residential - Single Family,379900,2608 Betty St,Orlando
+3,1,1044,8967,Residential - Single Family,289999,6036 Danube Way,Orlando
+2,2,1142,16772,Condominium,249900,5447 Vineland Rd #1105,Orlando
+4,4,3443,6570,Residential - Single Family,1026000,13831 Briand Ave,Orlando
+3,3,2533,5795,Residential - Single Family,499990,9738 Old Patina Way,Orlando
+2,2,1165,11987,Condominium,165000,4185 Versailles Dr #4185G,Orlando
+2,2,1305,23373,Condominium,254990,3030 Cottage Grove Ct #1909,Orlando
+2,2,1116,9922,Condominium,219900,784 E Michigan St #25,Orlando
+3,2,1805,0,Condominium,484990,7521 Laureate Blvd #5207,Orlando
+2,2,1549,0,Condominium,464990,7521 Laureate Blvd #5306,Orlando
+3,2,1962,NaN,Condominium,379000,3362 Robert Trent Jones Dr #101,Orlando
+2,2,1549,NaN,Multi Family,465990,7521 Laureate Boulevard # 5306,Orlando
+3,2,1805,NaN,Multi Family,485990,7521 Laureate Boulevard # 5207,Orlando
+3,3,1580,6682,Condominium,349900,5170 Cypress Creek Dr #2,Orlando
+3,2,1958,6750,Residential - Single Family,587500,11918 Xenia Ln,Orlando
+2,2,1018,365766,Condominium,195000,1741 Bunkerhill Ct #1741,Orlando
+2,3,1437,929,Condominium,217000,4164 Player Cir #110,Orlando
+4,3,2459,7337,Residential - Single Family,690000,8011 Bushmaster Ave,Orlando
+6,3,3890,11162,Residential - Single Family,745000,7698 Belvoir Dr,Orlando
+2,2,1124,8845,Condominium,250000,6159 Metrowest Blvd #105,Orlando
+1,1,724,9693,Condominium,169000,5118 City St #527,Orlando
+3,2,1577,8457,Residential - Single Family,479000,23 E Vanderbilt St,Orlando
+4,2,2100,8844,Residential - Single Family,629900,617 S Hyer Ave,Orlando
+2,2,1172,6766,Residential - Single Family,479000,446 Briercliff Dr,Orlando
+4,3,3172,57259,Condominium,1799000,150 E Robinson St #2901,Orlando
+3,3,2241,4060,Residential - Single Family,650000,13856 Granger Ave,Orlando
+3,3,1810,3380,Townhouse,549000,8438 Gilford Ln,Orlando
+3,2,2136,10621,Residential - Single Family,518000,6518 Hidden Beach Cir,Orlando
+2,2,1250,547309,Condominium,250000,4258 Lake Underhill Rd #D,Orlando
+3,2,1206,6801,Residential - Single Family,288750,4482 Brooke St,Orlando
+4,2,1518,7700,Residential - Single Family,375000,5233 Clarion Hammock Dr,Orlando
+5,6,4450,22170,Residential - Single Family,3350000,10525 Cromwell Grove Ter,Orlando
+3,3,1428,2347,Townhouse,380000,10168 Hartford Maroon Rd,Orlando
+2,2,909,2564,Condominium,220000,4353 Shadow Crest Pl #3,Orlando
+4,2,2024,8654,Residential - Single Family,239900,2743 Ravenall Ave,Orlando
+4,4,2955,13897,Residential - Single Family,440000,4401 Real Ct,Orlando
+4,3,1994,4764,Townhouse,510000,12016 Lorenza Ln,Orlando
+3,2,1050,8992,Residential - Single Family,309000,629 Yucatan Dr,Orlando
+3,2,1184,7015,Residential - Single Family,385000,526 Esther St,Orlando
+2,2,1676,1751,Condominium,365000,4177 N Orange Blossom Trl #303,Orlando
+1,2,799,NaN,Condominium,200000,400 E Colonial Dr #306,Orlando
+4,2,1972,6050,Residential - Single Family,445000,4848 Adair Oak Dr,Orlando
+2,2,1042,7670,Condominium,205000,4356 S Kirkman Rd #514,Orlando
+2,2,1260,6511,Residential - Single Family,315000,1410 Altaloma Ave,Orlando
+3,2,1453,7387,Residential - Single Family,450000,221 Mc Jordan Ave,Orlando
+2,2,1250,547309,Condominium,220000,4386 Lake Underhill Rd #20,Orlando
+3,2,1283,11249,Residential - Single Family,349999,5270 San Paulo St,Orlando
+1,1,711,8770,Condominium,165000,5112 Conroy Rd #324,Orlando
+2,2,1165,9121,Condominium,170000,4118 Dijon Dr #4118E,Orlando
+2,1,933,11677,Condominium,185000,2544 Robert Trent Jones Dr #825,Orlando
+5,4,3130,8401,Residential - Single Family,795000,8529 Corinth Pointe Ct,Orlando
+2,3,1343,108103,Townhouse,249000,6037 Scotchwood Gln #2,Orlando
+4,2,1489,10646,Condominium,239000,6663 Queens Borough Ave E #302,Orlando
+3,2.5,2119,NaN,Multi Family,674990,10757 Pahokee Beach Pl,Orlando
+3,2,1801,7941,Condominium,570000,1819 Common Way Rd #27-201,Orlando
+4,3,1861,2110,Townhouse,489900,14351 Sapelo Beach Dr,Orlando
+3,2,1629,10202,Residential - Single Family,359900,5489 Caurus Ct,Orlando
+4,2,1920,13489,Residential - Single Family,385000,3245 Escondido Dr,Orlando
+1,1,774,87729,Condominium,235500,860 N Orange Ave #429,Orlando
+3,2,1608,6325,Residential - Single Family,509900,6428 Winder Oaks Blvd,Orlando
+4,2,1724,6615,Residential - Single Family,725000,220 E Harvard St,Orlando
+2,2,1093,7250,Condominium,225000,4374 Middlebrook Rd #4374,Orlando
+6,4,2172,7022,Multi Family,599900,2801 E Central Blvd,Orlando
+3,3,3211,8227,Residential - Single Family,819999,3620 Pelican Ln,Orlando
+4,2,1609,7500,Residential - Single Family,379000,621 Morocco Ave,Orlando
+4,2,1289,7370,Residential - Single Family,275000,3463 Fekany Pl,Orlando
+4,3,1841,6752,Residential - Single Family,450000,938 S Bumby Ave,Orlando
+4,3,2628,6000,Residential - Single Family,750000,9803 Sweetleaf St,Orlando
+2,3,1517,2355,Townhouse,430000,8653 Tavistock Lakes Blvd,Orlando
+3,2,1509,9100,Residential - Single Family,445000,2610 Elizabeth Ave,Orlando
+4,3,2657,8690,Residential - Single Family,600000,7061 Lake Carlisle Blvd,Orlando
+3,2,1412,10297,Residential - Single Family,425000,3017 Vine St,Orlando
+5,3,2360,7161,Residential - Single Family,499900,3825 Lake Warren Dr,Orlando
+1,1,673,7883,Condominium,169990,1017 S Hiawassee Rd #3733,Orlando
+2,2,997,961,Condominium,155000,4601 Lighthouse Cir #109,Orlando
+2,3,1250,698,Condominium,265500,2532 Grand Central Pkwy #8,Orlando
+3,2,1571,9171,Residential - Single Family,360000,3171 Oak Bluff Dr,Orlando
+4,3,2535,6918,Residential - Single Family,699900,512 E Amelia St,Orlando
+2,2,836,3784,Condominium,249999,1059 S Hiawassee Rd #1824,Orlando
+3,2,2129,16012,Condominium,380000,3368 Robert Trent Jones Dr #40808,Orlando
+3,2,2072,8454,Residential - Single Family,635000,361 Brassie Dr,Orlando
+3,2,1252,4558,Residential - Single Family,359000,2005 Winslow Dr,Orlando
+5,5,3314,6605,Residential - Single Family,1200000,14172 Moniz Ave,Orlando
+4,3,1858,NaN,Residential - Single Family,523990,14350 Orchid Island Dr,Orlando
+3,1,1045,6818,Residential - Single Family,249999,1316 Deerock Dr,Orlando
+3,2,2285,7800,Residential - Single Family,425000,1808 Edmundshire Rd,Orlando
+3,2,1503,9098,Residential - Single Family,390000,502 El Vedado Ave,Orlando
+1,1,629,565755,Condominium,149900,3236 S Semoran Blvd #24,Orlando
+4,3,2541,12150,Residential - Single Family,475000,9030 Verona Sound Way,Orlando
+2,2,1299,93462,Condominium,280000,2426 Tack Room Ln #8,Orlando
+4,3,2935,5246,Residential - Single Family,625000,4939 Southlawn Ave,Orlando
+5,3,2490,5249,Residential - Single Family,620000,4917 Maple Park St,Orlando
+1,1,674,9384,Condominium,175000,2564 Robert Trent Jones Dr #1325,Orlando
+2,2,820,213111,Condominium,188500,3799 Atrium Dr #L2,Orlando
+2,2,950,2639,Townhouse,310000,4582 Summergrove Ave,Orlando
+3,2,2045,10585,Residential - Single Family,629000,3215 Helen Ave,Orlando
+4,2,1162,5400,Residential - Single Family,300000,5430 Timberchase Ct,Orlando
+4,2,1248,6745,Residential - Single Family,260000,4714 Kirkland Blvd,Orlando
+3,2,1391,16328,Condominium,265000,3314 Robert Trent Jones Dr #10401,Orlando
+3,2,1107,3481,Residential - Single Family,299999,5235 Florida Holly Dr,Orlando
+4,3,1222,7713,Residential - Single Family,350000,4401 Georgetown Dr,Orlando
+4,3,2578,6598,Residential - Single Family,350000,1023 W Gore St W,Orlando
+1,1,816,22639,Condominium,179000,6413 Astor Village Ave #109,Orlando
+2,2,934,102262,Condominium,230000,3277 Westridge Blvd #203,Orlando
+2,3,2337,1067,Townhouse,628000,1347 Chatfield Pl,Orlando
+1,1,529,15731,Condominium,133500,4846 S Semoran Blvd #1302,Orlando
+3,2,1407,9928,Residential - Single Family,375000,918 S Oxalis Ave,Orlando
+3,2,1468,10204,Residential - Single Family,364900,735 Humber Ln,Orlando
+3,2,1020,4945,Residential - Single Family,275000,4555 Watch Hill Rd,Orlando
+3,3,1581,1087,Condominium,369500,2908 C Oak Park Way #5,Orlando
+NaN,NaN,5497,NaN,Land,499000,1206 E Jackson St,Orlando
+3,3,2000,5750,Residential - Single Family,429000,4720 S Hampton Dr,Orlando
+3,4,2236,1316,Townhouse,730000,1236 Lake Baldwin Ln,Orlando
+4,3,2627,13303,Residential - Single Family,850000,513 S Osceola Ave,Orlando
+3,1,1143,7919,Residential - Single Family,385000,2421 E Marks St,Orlando
+5,3,3026,6137,Residential - Single Family,555000,5713 Lake Champlain Dr,Orlando
+4,2,2439,11054,Residential - Single Family,700000,9844 Cypress Pine St,Orlando
+3,2,1979,9787,Residential - Single Family,671000,1015 N Hampton Ave,Orlando
+3,2,1247,16332,Condominium,265000,3338 Robert Trent Jones Dr #40304,Orlando
+5,5,3333,7337,Residential - Single Family,1100000,13615 Ritta Island Dr,Orlando
+3,2,1561,8166,Residential - Single Family,424900,317 E Jersey St,Orlando
+3,3,2012,5740,Residential - Single Family,510000,1817 Westpointe Cir,Orlando
+2,3,1546,959,Condominium,310000,6206 Castelven Dr #106,Orlando
+3,3,1787,423307,Condominium,314950,2210 Mcmahon Ct #1034,Orlando
+4,2,1972,5500,Residential - Single Family,465000,10025 Savannah Bluff Ln,Orlando
+3,4,1880,2259,Townhouse,635000,1030 E Marks St,Orlando
+1,1,794,4450,Condominium,185000,6424 Raleigh St #3104,Orlando
+2,2,1447,16328,Condominium,265000,3314 Robert Trent Jones Dr #20401,Orlando
+4,3,1861,2100,Townhouse,535000,14475 Sapelo Beach Dr,Orlando
+3,2,1391,16332,Condominium,265000,3338 Robert Trent Jones Dr #10904,Orlando
+5,3,2813,5001,Residential - Single Family,380000,4758 Wyresdale St,Orlando
+3,2,2010,20395,Condominium,450000,6312 Buford St #409,Orlando
+2,2,820,213111,Condominium,205000,3717 Atrium Dr #L-3,Orlando
+2,2,820,261435,Condominium,199999,3603 Atrium Dr #L-2,Orlando
+3,3,1544,595556,Condominium,400000,6528 S Goldenrod Rd #B,Orlando
+3,2,1578,5511,Residential - Single Family,400000,5141 Walnut Ridge Dr,Orlando
+4,2,1148,5406,Residential - Single Family,259900,611 Raleigh St,Orlando
+1,1,548,5460,Condominium,141500,4149 E Michigan St #4149,Orlando
+4,2,1933,5555,Residential - Single Family,495000,3375 Brookwater Cir,Orlando
+3,1,1198,8506,Residential - Single Family,395000,1127 Morris Ave,Orlando
+3,2,1576,10192,Residential - Single Family,335000,5499 Lighthouse Rd,Orlando
+3,3,1392,2390,Townhouse,395000,9753 Fenrose Ter,Orlando
+3,3,1788,3692,Residential - Single Family,750068,9928 Rodbell St,Orlando
+3,2,1362,13773,Condominium,250000,5566 Metrowest Blvd #301,Orlando
+3,2,1447,1942,Condominium,305000,6466 Cava Alta Dr #209,Orlando
+4,3,2656,5505,Residential - Single Family,565000,9977 Oak Crest Rd,Orlando
+3,1,897,8568,Residential - Single Family,219900,6360 Pecos Ct,Orlando
+5,5,3252,6793,Residential - Single Family,1389000,1125 W Yale St,Orlando
+3,2.5,2216,NaN,Residential - Single Family,659990,14057 Kauai Dr,Orlando
+4,4,2854,6600,Residential - Single Family,599500,2518 Porterview Way,Orlando
+5,5,4155,8880,Residential - Single Family,1549990,12587 Bovet Ave,Orlando
+5,3,3292,9846,Residential - Single Family,589000,5198 Adair Oak Dr,Orlando
+3,2,1246,10328,Residential - Single Family,434848,2501 Hargill Dr,Orlando
+3,4,2486,22067,Residential - Single Family,1650000,10262 Chiltern Garden Dr,Orlando
+3,2,1869,9291,Residential - Single Family,550000,1312 Corbett Ln,Orlando
+3,2,1474,6803,Residential - Single Family,425000,2127 Fiesta Ct,Orlando
+1,1,675,203206,Condominium,155000,3646 Southpointe Dr #1,Orlando
+3,2,1805,2052,Condominium,470000,7517 Laureate Blvd #4202,Orlando
+4,4,2742,7502,Residential - Single Family,850000,524 E Kaley St,Orlando
+NaN,NaN,2999,NaN,Land,46000,731 Quill Ave, Orlando
+2,2,1368,NaN,Condominium,394990,7557 Laureate Blvd #6201,Orlando
+3,2,1252,6757,Residential - Single Family,499900,1624 Tulane St,Orlando
+3,4,1969,1512,Townhouse,599999,129 W Grant St,Orlando
+2,2,1079,8919,Condominium,230000,6157 Metrowest Blvd #204,Orlando
+5,3,3151,5493,Residential - Single Family,695000,7016 Brescia Way,Orlando
+4,3,1860,5499,Residential - Single Family,429000,9886 Brodbeck Blvd,Orlando
+4,2,1192,10833,Condominium,225000,2019 Dixie Belle Dr #2019X,Orlando
+3,4,2241,1392,Townhouse,669000,12959 Gabor Ave,Orlando
+4,3,4038,6750,Residential - Single Family,979875,12203 Regal Lily Ln,Orlando
+5,3,1500,6753,Residential - Single Family,395000,1617 Florinda Dr,Orlando
+3,2,1198,241461,Condominium,219000,5164 Saint Charles Ln #63,Orlando
+1,1,842,8756,Condominium,179900,7280 Westpointe Blvd #822,Orlando
+2,2,1040,10031,Condominium,150000,5317 Curry Ford Rd #205,Orlando
+3,3,1519,1897,Townhouse,350000,9224 Sweet Maple Ave,Orlando
+4,3,1820,4679,Townhouse,455000,12028 Talitha Ln,Orlando
+4,3,1883,1240,Condominium,495000,814 N Westmoreland Dr #C,Orlando
+3,2,1192,10130,Condominium,225000,2071 Dixie Belle Dr #2071R,Orlando
+1,1,862,3668,Condominium,298000,155 S Court Ave #2412,Orlando
+2,1,998,3596,Multi Family,250000,111 Mcquigg Ave,Orlando
+3,2,2000,7433,Residential - Single Family,715000,11897 Zelkova Ln,Orlando
+3,2,1200,7540,Residential - Single Family,425000,1215 Gunnison Ave,Orlando
+4,3,1528,3668,Townhouse,447000,10156 Hartford Maroon Rd,Orlando
+3,2,1655,10200,Residential - Single Family,495000,1422 Maury Rd,Orlando
+3,2,1247,16332,Condominium,265000,3338 Robert Trent Jones Dr #401,Orlando
+2,2,988,8645,Condominium,189000,5124 Conroy Rd #627,Orlando
+3,2,1506,4479,Residential - Single Family,390000,5728 Vista Linda Dr,Orlando
+2,2,1024,5265,Condominium,155000,4145 Player Cir #517,Orlando
+4,4,3082,6984,Residential - Single Family,1091000,910 Alameda St,Orlando
+3,1,1020,6600,Residential - Single Family,250000,1848 Patterson Ave,Orlando
+2,2,1115,93940,Condominium,239000,204 E South St #2058,Orlando
+5,3,3249,8108,Residential - Single Family,874900,2000 Gerda Ter,Orlando
+2,2,868,2118,Residential - Single Family,129900,4718 Southern Willow Ln,Orlando
+2,2,868,1950,Residential - Single Family,129900,4714 Southern Willow Ln,Orlando
+3,3,1533,1760,Townhouse,335000,3641 Borah Ln,Orlando
+2,2,868,1950,Residential - Single Family,129900,4710 Southern Willow Ln,Orlando
+4,2,1624,8254,Residential - Single Family,334995,4751 Beacon St,Orlando
+2,2,868,1950,Residential - Single Family,129900,4708 Southern Willow Ln,Orlando
+4,4,3046,15423,Residential - Single Family,850000,1250 Norwood Pl,Orlando
+2,2,868,1950,Residential - Single Family,129900,4704 Southern Willow Ln,Orlando
+3,1,864,6477,Residential - Single Family,257000,2800 W Concord St,Orlando
+5,4,3000,11700,Residential - Single Family,549000,2924 Marathon Ave,Orlando
+1,1,971,13663,Condominium,282500,530 E Central Blvd #301,Orlando
+3,3,2343,5525,Residential - Single Family,799000,732 Stetson St,Orlando
+3,3,1680,2183,Townhouse,289900,604 W Washington St,Orlando
+2,2,820,213112,Condominium,205000,3789 Atrium Dr #U-4,Orlando
+6,4,3487,6000,Residential - Single Family,875000,8620 Northlake Pkwy,Orlando
+5,3,2803,15129,Residential - Single Family,634000,1750 Lockwood Ave,Orlando
+4,3,2146,5626,Residential - Single Family,584000,2830 S Brown Ave,Orlando
+3,3,1602,3508,Townhouse,420000,10263 Highline Crest St #LOT 74,Orlando
+4,3,1858,NaN,Multi Family,429630,6039 Arbor Watch Loop,Orlando
+3,3,1966,5555,Residential - Single Family,655000,13256 Granger Ave,Orlando
+4,4,2988,6024,Residential - Single Family,1000000,7826 Dausset St,Orlando
+2,2,935,9970,Condominium,194999,4367 Thornbriar Ln #208,Orlando
+4,2.1,1882,3997,Single Family - Detached,680000,15 N Hampton Ave,Orlando
+3,2,1190,10398,Residential - Single Family,305000,4653 Carmel St,Orlando
+2,1,1130,NaN,Condominium,249900,5550 E Michigan St #2306,Orlando
+1,1,862,3668,Condominium,286000,155 S Court Ave #1112,Orlando
+3,2,1085,6706,Residential - Single Family,290000,4689 King Cole Blvd,Orlando
+3,3,1682,871,Townhouse,369900,2851 Polvadero Ln #107,Orlando
+4,3,3168,7754,Residential - Single Family,1297777,60 Waverly Pl,Orlando
+3,2,1805,0,Condominium,489990,7521 Laureate Blvd #5307,Orlando
+5,4,3164,7049,Residential - Single Family,1399000,38 W Steele St,Orlando
+1,1,673,7883,Condominium,155000,1017 S Hiawassee Rd #3736,Orlando
+NaN,NaN,14288,NaN,Land,525000,1600 Hillcrest St,Orlando
+1,1,850,7862,Condominium,204000,3713 Conroy Rd #1913,Orlando
+3,3,3485,14280,Residential - Single Family,1495000,2505 Norfolk Rd,Orlando
+3,3,2171,4869,Residential - Single Family,525000,10542 Langefield St,Orlando
+3,3,1678,1927,Townhouse,367000,4972 Matteo Trl,Orlando
+3,3,1368,5892,Residential - Single Family,282000,1030 Ola Dr,Orlando
+2,2,1256,6122,Condominium,249990,3324 Parkchester Square Blvd #202,Orlando
+3,2.5,2216,NaN,Residential - Single Family,622462,10273 Folly Beach Rd,Orlando
+3,2.5,1652,NaN,Multi Family,479990,14256 Sapelo Beach Dr,Orlando
+2,2,900,756179,Condominium,169500,2500 Woodgate Blvd #206,Orlando
+1,2,928,57259,Condominium,310000,150 E Robinson St #1222,Orlando
+2,2,991,5936,Condominium,199999,6040 Westgate Dr #103,Orlando
+2,2,1258,5436,Condominium,229990,5848 Windhover Dr #5848,Orlando
+4,2,1388,31147,Residential - Single Family,349000,1426 Cape Cove Blvd,Orlando
+2,2,1132,57259,Condominium,500000,150 E Robinson St #1705,Orlando
+2,2,876,1037,Condominium,199900,4300 Hector Ct #3,Orlando
+,NaN,4108,17561,Multi Family,1100000,320 S Lee Ave,Orlando
+2,2,1054,8224,Condominium,155000,4532 Commander Dr #2138,Orlando
+4,3,1392,7728,Residential - Single Family,530000,4020 Ibis Dr,Orlando
+2,1,965,NaN,Condominium,165000,525 Conway Rd #212,Orlando
+5,6,5129,14723,Residential - Single Family,2750000,8634 Farthington Way,Orlando
+1,1,580,9080,Condominium,139900,4225 Thornbriar Ln #210,Orlando
+3,2,2061,9427,Residential - Single Family,515000,10081 Cobalt Bay Rd,Orlando
+NaN,NaN,6515,NaN,Land,350000,2222 Delaney Ave,Orlando
+2,1,852,4229,Residential - Single Family,359999,510 S Eola Dr,Orlando
+3,2,1775,20395,Condominium,419900,6312 Buford St #204,Orlando
+5,7,6174,15098,Residential - Single Family,3975000,8527 Lake Nona Shore Dr,Orlando
+5,5,3664,3235,Residential - Single Family,1449000,8335 Edelman Ln,Orlando
+3,2,1440,18338,Residential - Single Family,275000,2314 W South St,Orlando
+2,1,928,10131,Residential - Single Family,320000,1333 W Smith St,Orlando
+2,2,988,8509,Condominium,184000,5148 Conroy Rd #11,Orlando
+2,3,1546,1094,Condominium,275000,2804 Polvadero Ln #103,Orlando
+3,4,1262,3880,Residential - Single Family,315000,5242 Florida Holly Dr,Orlando
+3,2,1450,9584,Residential - Single Family,480000,4742 Fontana St,Orlando
+3,2,1426,5660,Condominium,186900,4311 S Semoran Blvd #8,Orlando
+2,2,1021,422158,Condominium,174000,3727 S Lake Orlando Pkwy #7,Orlando
+2,2,1486,NaN,Multi Family,449990,7521 Laureate Boulevard # 5304,Orlando
+3,2,1000,6798,Residential - Single Family,265000,5710 Cardinals Guard Ave,Orlando
+5,5,3864,3256,Residential - Single Family,1495000,8319 Edelman Ln,Orlando
+1,1,804,3668,Condominium,298925,155 S Court Ave #1910,Orlando
+1,1,680,756179,Condominium,175000,2560 Woodgate Blvd #203,Orlando
+2,2,1486,0,Condominium,450475,7521 Laureate Blvd #5304,Orlando
+3,2,1812,16917,Residential - Single Family,324999,1415 Nieuport Ln,Orlando
+3,4,3111,28183,Condominium,995000,1110 SW Ivanhoe Blvd #26,Orlando
+2,2,988,8978,Condominium,189000,5120 Conroy Rd #28,Orlando
+1,1,729,3668,Condominium,291900,155 S Court Ave #1906,Orlando
+4,4,2667,9923,Residential - Single Family,735000,7699 Milano Dr,Orlando
+2,2,1650,3847,Townhouse,480990,40 Pearson Ave # b,Orlando
+3,2,1780,3847,Townhouse,488990,40 Pearson Ave # c,Orlando
+4,3,2622,7495,Residential - Single Family,1195000,1410 Christy Ave,Orlando
+4,5,4831,9468,Residential - Single Family,1800000,10914 Savona Way,Orlando
+3,3,2015,4654,Townhouse,510990,40 Pearson Ave # a,Orlando
+4,3,2883,7310,Residential - Single Family,764869,181 Mcmillian Dr,Orlando
+3,2,1113,0,Condominium,190000,1855 Caralee Blvd #2,Orlando
+4,4,2712,6948,Residential - Single Family,695000,1232 Poinsettia Ave,Orlando
+NaN,NaN,8833,NaN,Land,399999,1438 W Yale St,Orlando
+3,3,2283,5366,Residential - Single Family,839900,13812 Eliot Ave,Orlando
+2,2,956,6860,Condominium,189000,4752 Walden Cir #38,Orlando
+2,2,1014,9384,Condominium,169000,2564 Robert Trent Jones Dr #1311,Orlando
+6,4,4556,8219,Multi Family,1336800,1407 Illinois St,Orlando
+2,1,737,4015,Residential - Single Family,315000,1418 E Harwood St,Orlando
+3,2,1423,8756,Condominium,250000,7280 Westpointe Blvd #817,Orlando
+2,1,1169,7370,Residential - Single Family,400000,106 E Rollins St,Orlando
+3,2,1340,8468,Residential - Single Family,499900,2732 Walnut St,Orlando
+4,2,1048,8078,Residential - Single Family,240000,4644 Barley St,Orlando
+5,4,3041,11148,Residential - Single Family,960000,11855 Padua Ln,Orlando
+3,1,1292,8413,Residential - Single Family,399900,3311 Oberlin Ave,Orlando
+3,3,1682,976,Townhouse,324900,3567 Shallot Dr #104,Orlando
+4,3,1861,2100,Townhouse,545000,10376 Folly Beach Rd,Orlando
+3,3,2052,4199,Residential - Single Family,449000,5121 Jalisco Ln,Orlando
+2,3,1800,2082,Condominium,499900,536 W Par St #5,Orlando
+3,2,1495,10741,Residential - Single Family,509900,2908 Nancy St,Orlando
+5,3,2865,15129,Residential - Single Family,629900,2312 Lielasus Dr,Orlando
+2,2,988,8484,Condominium,178900,5140 Conroy Rd #22,Orlando
+2,2,934,102262,Condominium,228011,3285 Westridge Blvd #103,Orlando
+2,1,933,11322,Condominium,179000,2532 Robert Trent Jones Dr #1522,Orlando
+3,2,1253,10163,Condominium,175000,4518 Commander Dr #1931,Orlando
+2,2,1028,9989,Condominium,189000,5156 Conroy Rd #1124,Orlando
+2,2,1160,4803,Condominium,294000,621 Cathcart Ave #5,Orlando
+1,1,671,671,Condominium,198000,7395 Universal Blvd #204,Orlando
+2,2,1261,3668,Condominium,414900,155 S Court Ave #1602,Orlando
+3,2,1290,10166,Residential - Single Family,390000,16 Nancy Lee Ave,Orlando
+2,1,952,6041,Residential - Single Family,239900,4421 Sebastian Way,Orlando
+4,3,3049,5992,Residential - Single Family,639900,9865 Old Patina Way,Orlando
+3,2,1292,385598,Condominium,276000,5550 E Michigan St #1107,Orlando
+3,2,1651,9088,Residential - Single Family,439900,706 Braidwood Ln,Orlando
+3,2,1418,12395,Residential - Single Family,320000,5067 Stone Harbour Rd,Orlando
+5,5,4054,7408,Residential - Single Family,1049777,13119 Granger Ave,Orlando
+2,2,820,261435,Condominium,185000,3709 Atrium Dr,Orlando
+3,4,2695,24071,Residential - Single Family,490000,3728 S Lake Orlando Pkwy,Orlando
+3,2,1560,8620,Residential - Single Family,289900,5284 Signal Hill Rd,Orlando
+4,4,3704,14860,Residential - Single Family,2800000,2659 Lake Shore Dr,Orlando
+2,1,1691,5151,Residential - Single Family,475000,122 N Mills Ave,Orlando
+2,2,1125,63139,Condominium,159999,5861 La Costa Dr #115,Orlando
+2,2,1056,1056,Condominium,299900,7395 Universal Blvd #606,Orlando
+3,4,2192,2950,Townhouse,650000,1602 Park Lake St #5,Orlando
+3,4,2081,1460,Townhouse,615000,1602 Park Lake St #4,Orlando
+3,2,1100,4600,Residential - Single Family,325000,5423 Timberchase Ct,Orlando
+3,4,2120,1460,Townhouse,625000,1602 Park Lake St #3,Orlando
+NaN,NaN,15364,NaN,Land,1100000,10221 Atterbury Ct,Orlando
+NaN,NaN,17236,NaN,Land,1000000,9700 Blandford Rd,Orlando
+NaN,NaN,9429,NaN,Land,820000,8623 Farthington Way,Orlando
+NaN,NaN,9433,NaN,Land,820000,8655 Farthington Way,Orlando
+3,3,2417,76230,Residential - Single Family,625000,806 W Lake Mann Dr,Orlando
+3,4,2150,1452,Townhouse,625000,1602 Park Lake St #2,Orlando
+2,2,1368,NaN,Multi Family,394990,7557 Laureate Boulevard # 6201,Orlando
+2,1,934,10259,Condominium,165000,4528 Commander Dr #2025,Orlando
+2,2,1140,57259,Condominium,544900,150 E Robinson St #2405,Orlando
+1,1,729,3668,Condominium,269900,155 S Court Ave #1606,Orlando
+3,2,1254,6964,Residential - Single Family,450000,1913 Westpointe Cir,Orlando
+4,3,3070,13295,Residential - Single Family,660000,8513 Corinth Pointe Ct,Orlando
+1,1,636,2565,Condominium,152500,120 W America St #8,Orlando
+3,3,2010,1423,Townhouse,440000,6383 Conejo Ter #102,Orlando
+4,3,2068,10126,Residential - Single Family,310000,1522 W Washington St,Orlando
+3,1,950,9113,Residential - Single Family,299999,1589 S Oxalis Ave,Orlando
+3,2,1544,9751,Residential - Single Family,455000,1412 N Bumby Ave,Orlando
+3,2,1747,3850,Residential - Single Family,586000,8445 Nemours Pkwy,Orlando
+3,3,2081,3680,Residential - Single Family,450000,4739 Creekside Park Ave,Orlando
+4,4,2548,6207,Residential - Single Family,1129000,827 Dartmouth St,Orlando
+4,4,2548,6206,Residential - Single Family,1129000,833 Dartmouth St,Orlando
+1,1,675,203206,Condominium,152500,3534 Southpointe Dr #1,Orlando
+4,3,1868,683,Condominium,367000,6119 Metrowest Blvd #116,Orlando
+3,2,2274,2275,Townhouse,439500,10514 Green Ivy Ln,Orlando
+1,1,763,58858,Condominium,199900,911 N Orange Ave #125,Orlando
+2,1,1140,7730,Residential - Single Family,228500,415 Sunset Dr,Orlando
+4,3,2428,10193,Residential - Single Family,678500,1329 Radclyffe Rd,Orlando
+4,2,1104,7041,Residential - Single Family,265000,4900 Elese St,Orlando
+3,3,1742,2945,Townhouse,399900,9575 Silver Buttonwood St,Orlando
+5,4,3136,6919,Residential - Single Family,639000,7216 Hawksnest Blvd,Orlando
+2,2,1160,6122,Condominium,204900,3368 Parkchester Square Blvd #103,Orlando
+2,2,1014,9109,Condominium,205000,2652 Robert Trent Jones Dr #517,Orlando
+3,2,1965,11550,Residential - Single Family,655000,1822 Biscayne Dr,Orlando
+4,2,1969,8917,Residential - Single Family,399000,4915 Oakbrooke Pl,Orlando
+4,2,1192,10833,Condominium,234000,2019 Dixie Belle Dr #2019A,Orlando
+3,2,1717,6763,Residential - Single Family,409000,5865 Manchester Bridge Dr,Orlando
+3,4,1969,2394,Townhouse,598000,121 W Grant St,Orlando
+2,2,1062,7542,Residential - Single Family,400000,2500 Depauw Ave,Orlando
+3,2,1610,8060,Residential - Single Family,312000,5637 Andora St,Orlando
+3,2,1792,9942,Residential - Single Family,399000,4600 Arcie St,Orlando
+4,2,2110,6721,Residential - Single Family,499000,9855 Nonacrest Dr,Orlando
+3,2,1410,5747,Condominium,565000,1832 Meeting Pl #102,Orlando
+1,1,971,13663,Condominium,299000,530 E Central Blvd #501,Orlando
+2,2,1063,10684,Condominium,219990,5132 City St #324,Orlando
+2,2,1061,573,Condominium,174900,4613 Ring Neck Rd #B1,Orlando
+3,2,1286,9740,Condominium,277000,6524 Swissco Dr #1012,Orlando
+2,2,966,NaN,Condominium,215000,3118 S Semoran Blvd #7,Orlando
+2,2,991,5936,Condominium,189900,5974 Westgate Dr #201,Orlando
+3,3,1680,11761,Residential - Single Family,465000,338 Bunker Pl,Orlando
+4,3,2689,5751,Residential - Single Family,699900,9981 Moss Rose Way,Orlando
+2,1,1093,NaN,Condominium,185500,5536 Metrowest Blvd #106,Orlando
+3,2,2002,16012,Condominium,356900,3368 Robert Trent Jones Dr #30108,Orlando
+1,1,991,4795,Condominium,210000,6396 Raleigh St #2911,Orlando
+3,2,1343,7286,Residential - Single Family,475000,2206 Montana St,Orlando
+3,2,2085,10445,Residential - Single Family,525000,3006 Huntington St,Orlando
+5,3,3194,8751,Residential - Single Family,590000,7315 Windham Harbour Ave,Orlando
+5,4,2908,6891,Residential - Single Family,679000,9819 Brown Burrow St,Orlando
+3,2,1073,1256,Condominium,325000,3129 Eagle Blvd #E,Orlando
+3,4,1943,1497,Townhouse,529000,61 W Grant St,Orlando
+4,5,3656,16061,Residential - Single Family,2150000,9783 Covent Garden Dr,Orlando
+2,2,1054,8262,Condominium,180000,5737 Gatlin Ave #422,Orlando
+5,5,4265,15214,Residential - Single Family,3345000,8575 Lake Nona Shore Dr,Orlando
+4,4,2988,5741,Residential - Single Family,699000,6977 Dolce St,Orlando
+5,6,5107,19297,Residential - Single Family,2999000,9672 Bryanston Dr,Orlando
+2,2,829,3925,Condominium,230000,1085 S Hiawassee Rd #511,Orlando
+NaN,NaN,8325,NaN,Land,442000,1833 Baylarian Blvd,Orlando
+3,2,1958,6999,Residential - Single Family,549000,1702 Cardinal Rd,Orlando
+5,3,3838,8088,Residential - Single Family,759000,7753 Bardmoor Hill Cir,Orlando
+3,3,1678,601,Condominium,322000,6111 Metrowest Blvd #102,Orlando
+2,2,1027,961,Condominium,160000,4569 Lighthouse Cir #41,Orlando
+4,4,3105,6499,Residential - Single Family,799000,11850 Aurelio Ln,Orlando
+3,1,1012,8715,Residential - Single Family,425000,1036 N Fern Creek Ave,Orlando
+3,3,1755,1899,Townhouse,379900,9417 Tawnyberry St,Orlando
+3,2,1152,4262,Residential - Single Family,290000,5414 Seedling Ln,Orlando
+3,3,1594,3408,Townhouse,359990,3141 Merton Aly,Orlando
+3,2,1285,10394,Condominium,294000,6153 Metrowest Blvd #103,Orlando
+3,3,1700,3753,Townhouse,490000,2513 E Central Blvd #B,Orlando
+3,2,1360,7502,Residential - Single Family,399900,1049 Formosa Ave,Winter Park
+3,3,2810,5500,Residential - Single Family,519900,9861 Moss Rose Way,Orlando
+1,1,729,3668,Condominium,272000,155 S Court Ave #1706,Orlando
+3,2,925,7717,Residential - Single Family,320000,3114 E Jefferson St,Orlando
+2,3,1800,2081,Condominium,389900,542 W Par St #5,Orlando
+4,3,1628,2347,Townhouse,445000,7919 Northlake Pkwy,Orlando
+3,2,1192,10833,Condominium,219000,2019 Dixie Belle Dr #2019W,Orlando
+3,3,1776,2441,Townhouse,525000,9097 Laureate Blvd,Orlando
+2,2,1200,2082,Condominium,329000,540 W Par St #540,Orlando
+3,3,1761,739,Townhouse,459000,1434 Catherine St,Orlando
+3,3,1682,999,Townhouse,329000,6235 Goethe St #105,Orlando
+4,3,2822,5471,Residential - Single Family,670000,6842 Dolce St,Orlando
+2,2,960,1022,Condominium,174900,4631 Ring Neck Rd #39-A,Orlando
+2,1,1021,105,Condominium,207500,7270 Westpointe Blvd #914,Orlando
+3,4,1834,1601,Townhouse,574900,117 E Concord St #8,Orlando
+4,3,2936,5249,Residential - Single Family,615000,5035 Southlawn Ave,Orlando
+5,2,1375,9113,Residential - Single Family,330000,821 Thalia Dr,Orlando
+4,4.5,4416,NaN,Residential - Single Family,1648995,9360 Santorini Dr,Orlando
+6,5,4241,15264,Residential - Single Family,1700000,213 E Concord St,Orlando
+2,1,1044,6817,Residential - Single Family,346000,217 Esther St,Orlando
+4,4,2616,6499,Residential - Single Family,749000,11859 Barletta Dr,Orlando
+5,7,5760,14181,Residential - Single Family,3300000,9864 Covent Garden Dr,Orlando
+5,4,2928,5578,Residential - Single Family,1024800,9544 Tavistock Lakes Blvd,Orlando
+3,3,1970,4282,Residential - Single Family,605000,8435 Reymont St,Orlando
+3,2,1571,9510,Residential - Single Family,325000,3205 Oak Bluff Dr,Orlando
+2,2,1084,1101,Condominium,175000,4456 Ring Neck Rd #28-C,Orlando
+3,2,1976,8448,Residential - Single Family,599900,25 NE Ivanhoe Blvd,Orlando
+4,4,2966,6042,Residential - Single Family,1150000,14676 Walcott Ave,Orlando
+3,2,1295,0,Condominium,249800,2528 Robert Trent Jones Dr #1626,Orlando
+3,3,1534,1760,Townhouse,354900,3668 Iditarod Ln,Orlando
+1,1,744,93940,Condominium,202500,204 E South St #2062,Orlando
+1,1,625,241461,Condominium,137900,5187 La Mancha Ct #25,Orlando
+3,2,1332,5500,Residential - Single Family,331000,1732 Sage Creek Ct,Orlando
+4,1,1212,8673,Residential - Single Family,390000,101 Forest Cir,Orlando
+1,2,1195,57259,Condominium,425000,150 E Robinson St #827,Orlando
+3,2,1132,12422,Residential - Single Family,199000,4705 Lawne Blvd,Orlando
+3,3,1634,3674,Townhouse,295000,6648 Time Square Ave #105,Orlando
+4,3,2037,3831,Residential - Single Family,606987,14226 Lanikai Beach Dr,Orlando
+2,2,1535,1631,Condominium,419000,7573 Laureate Blvd #1104,Orlando
+3,2,1447,NaN,Condominium,299000,6466 Cava Alta Dr #304,Orlando
+3,2,1107,9750,Residential - Single Family,254995,3013 Herold Dr,Orlando
+2,3,1449,1080,Townhouse,489995,8674 Valentine Aly,Orlando
+3,2,1177,9563,Residential - Single Family,499000,515 Altaloma Ave,Orlando
+4,3,2397,7128,Residential - Single Family,585000,10050 Brown Burrow St,Orlando
+3,2,1341,8837,Residential - Single Family,504900,552 Buckminster Cir,Orlando
+5,3,2304,5555,Residential - Single Family,499900,3872 Lake Warren Dr,Orlando
+3,3,2000,10152,Residential - Single Family,625000,7345 Grotto Ave,Orlando
+2,3,1657,10408,Townhouse,375000,568 S Osceola Ave #15,Orlando
+2,2,1486,NaN,Condominium,434999,7517 Laureate Blvd #4304,Orlando
+2,2,1051,23536,Condominium,190000,6104 Curry Ford Rd #106,Orlando
+3,3,1348,2347,Townhouse,386500,9168 Camden Gardens St,Orlando
+2,2.5,1449,NaN,Multi Family,599995,2150 Whitney Marsh Aly,Orlando
+3,2,2140,8262,Residential - Single Family,625000,1700 Robin Rd,Orlando
+1,1,943,945,Condominium,179000,6412 Queens Borough Ave #205,Orlando
+3,2,1767,7948,Residential - Single Family,599000,8058 Corkfield Ave,Orlando
+2,2,930,756179,Condominium,170000,2508 Woodgate Blvd #201,Orlando
+NaN,NaN,8415,NaN,Land,32000,1347 Winnifred St Orlando,Other City - In The State Of Florida
+4,2,1062,3976,Residential - Single Family,178800,808 Randall St,Orlando
+2,2,1200,687318,Condominium,290000,6506 S Goldenrod Rd #A,Orlando
+3,3,1836,5239,Townhouse,414000,1601 Wilson Ave,Orlando
+5,3,3460,5603,Residential - Single Family,849121,95 Mcmillian Dr,Orlando
+3,3,3730,9749,Residential - Single Family,1225000,340 Mashie Ln,Orlando
+3,4,2234,1399,Townhouse,750000,1200 Lake Baldwin Ln,Orlando
+NaN,NaN,13362,NaN,Land,600000,2 S Orange Blossom Trl,Orlando
+5,4,3415,6288,Residential - Single Family,768713,13184 Markowitz Aly,Orlando
+3,2,1354,8525,Residential - Single Family,445000,124 E Muriel St,Orlando
+2,2,1027,3885,Residential - Single Family,335000,2600 Musselwhite Ave,Orlando
+4,4,2247,3615,Residential - Single Family,659554,10340 Marconi Ave,Orlando
+3,3,2411,6288,Residential - Single Family,731450,10358 Marconi Ave,Orlando
+4,4,3412,5415,Residential - Single Family,835322,13203 E Mcmillan Dr,Orlando
+3,3,1788,3692,Residential - Single Family,736546,10376 Marconi Ave,Orlando
+4,4,2288,3692,Residential - Single Family,730627,10259 Pearson Ave,Orlando
+4,4,2328,3692,Residential - Single Family,724564,9922 Rodbell St,Orlando
+5,5,3909,5607,Residential - Single Family,952897,13268 Mcmillian Dr,Orlando
+3,2,1398,6378,Multi Family,599900,806 E Livingston St,Orlando
+3,1,1073,6098,Residential - Single Family,189500,2913 W Amelia St,Orlando
+5,4,2768,5814,Residential - Single Family,829900,7935 Nemours Pkwy,Orlando
+4,3,2020,7974,Residential - Single Family,500000,502 Lake Como Cir,Orlando
+4,3,1810,3125,Townhouse,465000,11854 Nautica Dr,Orlando
+3,2,1275,6737,Residential - Single Family,395000,1614 Gadsen Blvd,Orlando
+1,1,729,3668,Condominium,285000,155 S Court Ave #2706,Orlando
+2,2,1028,NaN,Condominium,175000,5156 Conroy Rd #1113,Orlando
+4,3,2411,6011,Residential - Single Family,575000,10030 Cobalt Bay Rd,Orlando
+3,2,1571,8572,Residential - Single Family,310000,3152 Barnstable Pl,Orlando
+3,2,1892,9847,Residential - Single Family,449999,4969 Casaba Pl,Orlando
+2,2,953,102801,Condominium,191000,2301 Oak Park Way #101,Orlando
+3,2,1633,10579,Residential - Single Family,402000,2705 Gulfstream Rd,Orlando
+3,3,1464,2225,Townhouse,350000,6144 Tivoli Gardens Blvd,Orlando
+NaN,NaN,16531,NaN,Land,350000,900 Arlington St,Orlando
+NaN,NaN,15653,NaN,Land,2900000,222 N Parramore Ave,Orlando
+3,3,1805,2945,Townhouse,374999,9531 Silver Buttonwood St,Orlando
+4,3,2442,15327,Residential - Single Family,510000,5050 Heartland St,Orlando
+3,2,1400,10576,Residential - Single Family,435000,1416 Maury Rd,Orlando
+4,3,2970,5499,Residential - Single Family,659999,4971 Longmeadow Park St,Orlando
+5,5,3518,7363,Residential - Single Family,887009,130 Strickland Aly,Orlando
+3,2,1334,6535,Condominium,249900,1935 Conway Rd #C6,Orlando
+1,2,765,9413,Condominium,124500,4117 S Semoran Blvd #8,Orlando
+1,1,945,12155,Condominium,155000,3406 Soho St #303,Orlando
+3,3,1682,1020,Condominium,365000,3150 Stowe St #107,Orlando
+2,2,1138,57259,Condominium,660000,150 E Robinson St #3410,Orlando
+1,2,830,10982,Condominium,159900,2007 Dixie Belle Dr #2007I,Orlando
+3,2.5,2216,NaN,Residential - Single Family,666360,14218 Lanikai Beach Dr,Orlando
+3,3,1787,115362,Condominium,319000,2249 Ohara Ct #1059,Orlando
+1,1,846,385598,Condominium,174900,5550 E Michigan St #2102,Orlando
+2,2,1322,8001,Residential - Single Family,399000,1329 Margate Ave,Orlando
+4,3,2963,9269,Residential - Single Family,950000,925 Mayfair Cir,Orlando
+2,2,1132,57259,Condominium,624999,150 E Robinson St #20B-3,Orlando
+4,3,3090,10552,Residential - Single Family,850000,1217 Reading Dr,Orlando
+3,1,977,5415,Residential - Single Family,189900,4078 Ferrow St,Orlando
+5,5,3630,6000,Residential - Single Family,848593,6 Mowry Ct,Orlando
+4,4,4226,7200,Residential - Single Family,831659,5 Mowry Ct,Orlando
+4,3,3210,6000,Residential - Single Family,833893,4 Mowry Ct,Orlando
+4,3,3210,6000,Residential - Single Family,848893,3 Mowry Ct,Orlando
+5,4,3479,11047,Residential - Single Family,729950,8703 Windsor Pointe Dr,Orlando
+5,5,3630,6000,Residential - Single Family,926593,1 Mowry Ct,Orlando
+3,2,2085,6749,Residential - Single Family,720156,190 Milfoil Ave,Orlando
+1,1,744,93940,Condominium,204000,202 E South St #5050,Orlando
+4,3,2235,6000,Residential - Single Family,647523,19277 Allium Pl,Orlando
+5,4,3628,7199,Residential - Single Family,879564,18435 Mowry Ct,Orlando
+2,1,1526,7510,Residential - Single Family,380000,411 Lakeview St,Orlando
+5,3.5,3764,NaN,Residential - Single Family,777990,Plan Deerfield - 8704 Crick Aly,Orlando
+4,3.5,3404,NaN,Residential - Single Family,736990,Plan Baldwin - 8704 Crick Aly,Orlando
+5,4.5,4024,NaN,Residential - Single Family,805990,Plan Prescott - 8704 Crick Aly,Orlando
+3,2,1860,9400,Residential - Single Family,429000,5271 Jennifer Pl,Orlando
+2,2,1157,28480,Condominium,430000,322 E Central Blvd #513,Orlando
+2,3,1472,2102,Townhouse,389975,14526 Orchid Island Dr,Orlando
+3,2,1365,9323,Residential - Single Family,499000,1441 Stetson St,Orlando
+3,2,1489,11882,Condominium,320000,3315 Parkchester Square Blvd #302,Orlando
+3,3,2725,6750,Residential - Single Family,649000,1006 Nottingham St,Orlando
+5,3,2327,6614,Residential - Single Family,885000,385 Niblick Way,Orlando
+3,2,1334,6535,Condominium,240000,1935 S Conway Rd #A8,Orlando
+1,1,780,2946,Condominium,95000,2759 L B Mcleod Rd #B,Orlando
+5,3,2768,5542,Residential - Single Family,600000,9978 Bennington Chase Dr,Orlando
+3,4,2100,42714,Townhouse,650000,54 W Jersey St #8,Orlando
+5,5,4263,8375,Residential - Single Family,1297000,13473 Panama Beach Ct,Orlando
+3,2.5,1652,NaN,Multi Family,482515,14268 Sapelo Beach Dr,Orlando
+4,2,1938,6972,Residential - Single Family,659900,12245 Regal Lily Ln,Orlando
+3,3,2500,7036,Residential - Single Family,799000,1828 Kalurna Ct,Orlando
+3,2,1078,4954,Residential - Single Family,399000,1101 Morris Ave,Orlando
+1,1,597,6711,Condominium,175350,5152 Conroy Rd #1333,Orlando
+2,2,988,8704,Condominium,190000,5160 Conroy Rd #1411,Orlando
+2,2,874,7130,Condominium,229000,2203 Yankee Pl #428,Orlando
+3,2,1423,8756,Condominium,240000,7240 Westpointe Blvd #1117,Orlando
+3,2,1723,15630,Residential - Single Family,360000,2805 Gulfstream Ct,Orlando
+4,4,4800,0,Condominium,2750000,100 S Eola Dr #PH220,Orlando
+2,2,1071,8755,Condominium,209900,7310 Westpointe Blvd #626,Orlando
+2,2,1160,6122,Residential - Single Family,245000,3403 Greenwich Village Blvd #103,Orlando
+NaN,NaN,9626,NaN,Land,1250000,617 E Church St,Orlando
+2,2,1233,12155,Condominium,230000,3406 Soho St #305,Orlando
+2,2,935,1240,Condominium,135000,4802 Lighthouse Cir #38,Orlando
+6,6.5,4961,NaN,Residential - Single Family,1851995,9652 English Laurel Ave,Orlando
+3,2,1237,10071,Condominium,219900,5132 Conroy Rd #28,Orlando
+5,5,4058,8471,Residential - Single Family,1650000,13703 Granger Ave,Orlando
+4,3,2534,9768,Residential - Single Family,598000,4360 Conroy Club Dr,Orlando
+5,3,2754,7913,Residential - Single Family,506000,9946 Bennington Chase Dr,Orlando
+4,5,3528,7800,Residential - Single Family,1050000,12107 Aztec Rose Ln,Orlando
+1,1,724,9788,Condominium,175000,5017 City St #1937,Orlando
+5,3,2476,5647,Residential - Single Family,769900,8918 Tavistock Lakes Blvd,Orlando
+3,2,1081,122092,Condominium,230000,2428 Oak Park Way #202,Orlando
+1,1,728,3668,Condominium,290000,155 S Court Ave #2214,Orlando
+NaN,NaN,31722,NaN,Land,3000000,9180 Sloane St,Orlando
+3,3,1835,4349,Residential - Single Family,699999,343 Broadway Ave,Orlando
+2,2,1054,8279,Condominium,180000,4630 Commander Dr #1031,Orlando
+4,3,2625,18948,Residential - Single Family,2299900,3202 Middlesex Rd,Orlando
+2,2,1338,13663,Condominium,349000,530 E Central Blvd #605,Orlando
+3,2,1275,8932,Residential - Single Family,299000,4432 Watch Hill Rd,Orlando
+2,2,1430,4877,Condominium,268000,3362 Greenwich Village Blvd #201,Orlando
+2,1,934,10056,Condominium,190000,4512 Commander Dr #1716,Orlando
+1,1,854,11129,Condominium,165000,2632 Robert Trent Jones Dr #123,Orlando
+3,4,2434,8829,Condominium,617700,1159 Delaney Ave #5,Orlando
+1,1,674,9109,Condominium,153000,2652 Robert Trent Jones Dr #533,Orlando
+2,4,1815,1350,Townhouse,550995,2232 Valentine Aly,Orlando
+2,2,1174,13807,Condominium,265000,3593 Conroy Rd #412,Orlando
+2,3,1750,29791,Townhouse,650000,1105 Poinsettia Ave #A,Orlando
+1,1,930,5310,Condominium,195000,3391 Parkchester Square Blvd #201,Orlando
+2,2,952,3700,Condominium,179900,1935 South Conway Road #I 5,Orlando
+2,2,1240,673,Condominium,189900,1924 Conway Rd #3,Orlando
+4,5,4833,5086,Residential - Single Family,1350000,840 Kenilworth Ter,Orlando
+2,2,1000,10029,Condominium,179900,4200 Thornbriar Ln #208,Orlando
+3,2.5,1652,NaN,Multi Family,399990,11087 Leafshore Loop,Orlando
+3,3,1682,0,Townhouse,319000,6349 Castelven Dr #105,Orlando
+2,2,1233,11780,Condominium,215000,3446 Soho St #B04,Orlando
+4,3,2559,10143,Residential - Single Family,629900,707 Mayfair Cir,Orlando
+3,2,1275,7066,Residential - Single Family,498999,1620 Park Lake St,Orlando
+3,4,3129,28183,Condominium,799900,1110 SW Ivanhoe Blvd #16,Orlando
+4,4,3788,14541,Residential - Single Family,675000,2457 Baesel View Dr,Orlando
+4,5,3161,7094,Residential - Single Family,911144,87 Neruda St,Orlando
+4,4,3724,6370,Residential - Single Family,973492,188 Mcmillian St,Orlando
+5,4,3164,7049,Residential - Single Family,1390000,32 W Steele St,Orlando
+5,5,4344,6370,Residential - Single Family,1023140,187 Mcmillian St,Orlando
+5,4,4084,7014,Residential - Single Family,991290,189 Mcmillian St,Orlando
+4,3,2963,6659,Residential - Single Family,1008000,51 E New Hampshire St,Orlando
+3,2,2736,4800,Residential - Single Family,775467,143 Marconi Ave,Orlando
+5,5,3901,13062,Residential - Single Family,1100000,2241 Lake Vilma Dr,Orlando
+3,3,2397,6843,Residential - Single Family,740970,117 Robdell St,Orlando
+4,4,3157,6843,Residential - Single Family,856308,135 Leggett Ave,Orlando
+4,4,3157,6843,Residential - Single Family,878308,60 Peebles St,Orlando
+5,4,3103,7094,Residential - Single Family,839894,90 Neruda St,Orlando
+5,4,3103,7094,Residential - Single Family,839894,85 Marconi Ave,Orlando
+3,2,2432,6199,Residential - Single Family,700990,162 Sabatier Aly,Orlando
+6,4,3910,6199,Residential - Single Family,913810,168 Sabatier Aly,Orlando
+6,4,3910,6199,Residential - Single Family,953811,129 Laxness St,Orlando
+6,4,3910,6199,Residential - Single Family,938811,113 Leggett Aly,Orlando
+4,3,3192,6199,Residential - Single Family,695990,169 Sabatier Aly,Orlando
+4,3,3192,6199,Residential - Single Family,836862,58 Laxness St,Orlando
+5,4,3484,5182,Residential - Single Family,838581,62 Peebles St,Orlando
+5,5,3518,6678,Residential - Single Family,931985,133 Strickland Aly,Orlando
+5,5,3518,6000,Residential - Single Family,901772,26 Mcmillian Dr,Orlando
+3,2,1151,10948,Residential - Single Family,235000,2026 La Due Ct,Orlando
+3,3,1678,1898,Townhouse,396000,9235 Sweet Maple Ave,Orlando
+3,3,1476,6948,Residential - Single Family,320000,715 Palmera St,Orlando
+2,2,1125,0,Condominium,159000,5855 La Costa Dr #116,Orlando
+2,2,1107,11780,Condominium,229900,3446 Soho St #301,Orlando
+3,2,1194,385598,Condominium,275000,5550 E Michigan St #3201,Orlando
+2,3,1285,2638,Condominium,250000,5285 Cypress Ct #723,Orlando
+2,3,1700,722,Condominium,625000,460 E Jackson St #3,Orlando
+1,2,1051,0,Condominium,389900,150 E Robinson St #1425,Orlando
+3,3,2049,3177,Residential - Single Family,699500,210 Hibiscus Ct,Orlando
+2,2,952,3700,Condominium,179900,1935 S Conway Rd #F1,Orlando
+4,3,2982,5499,Residential - Single Family,725000,4904 Palm Park St,Orlando
+4,2,1597,13848,Residential - Single Family,264900,4200 Cepeda St,Orlando
+4,2,1305,6349,Residential - Single Family,289000,437 S Lee Ave,Orlando
+NaN,NaN,20160,NaN,Land,1355000,830 Wilkinson St,Orlando
+2,2,1438,1016,Condominium,295000,6450 Alcalde Ct #103,Orlando
+3,3,1779,2435,Townhouse,465000,8558 Vedder Ln,Orlando
+3,2,1554,11441,Residential - Single Family,365000,5138 Brenda Dr,Orlando
+NaN,NaN,7145,NaN,Land,289900,0000 E Harding St,Orlando
+1,1NaN,NaN,Condominium,259900,7395 Universal #1004,Orlando
+3,3,1493,6224,Attached Single Family Home,525000,1318 Noble Pl #1,Orlando
+3,2,1600,6244,Condominium,244900,6593 Queens Borough Ave #202,Orlando
+2,2,1056,9150,Condominium,314999,7395 Universal Blvd #402,Orlando
+4,4,2553,6152,Residential - Single Family,789000,627 Woodward St,Orlando
+4,4,3934,11832,Residential - Single Family,1499900,2237 Baesel View Dr,Orlando
+5,6,10222,66546,Residential - Single Family,6995000,10203 Atterbury Ct,Orlando
+4,3,2773,6115,Residential - Single Family,735000,770 Country Ln,Orlando
+3,2,1650,8336,Residential - Single Family,454000,1712 Hart Ln,Orlando
+5,3,3460,5603,Residential - Single Family,832449,118 N Rodbell St,Orlando
+5,3,3460,5603,Residential - Single Family,850593,121 S Peebles St,Orlando
+3,3,2411,6288,Residential - Single Family,740652,10101 Pearson,Orlando
+3,3,1788,3692,Residential - Single Family,651749,10129 Pearson,Orlando
+3,3,2411,3692,Residential - Single Family,727905,10115 Pearson Ave,Orlando
+3,4,2584,6101,Residential - Single Family,734900,13563 Granger Ave,Orlando
+5,5,3909,5607,Residential - Single Family,961895,109 E Marconi Ave,Orlando
+5,5,3909,5607,Residential - Single Family,889075,134 W Leggett Aly,Orlando
+5,5,3909,5607,Residential - Single Family,926297,67 S Peebles St,Orlando
+3,2,1260,11495,Condominium,225000,6663 Queens Borough Ave #301,Orlando
+3,2,2085,7200,Residential - Single Family,609268,176 Rawson St,Orlando
+NaN,NaN,12224,NaN,Land,275000,1024 Bentley St,Orlando
+5,2,2608,10624,Residential - Single Family,530000,2638 Vine St,Orlando
+4,3,1299,8978,Residential - Single Family,399000,1715 N Bumby Ave,Orlando
+4,2,1751,10570,Residential - Single Family,445000,5311 Jennifer Pl,Orlando
+3,2,2085,7200,Residential - Single Family,614268,129 Planetree St,Orlando
+NaN,NaN,23201,NaN,Land,799000,714 Cordova Dr,Orlando
+4,4,3199,7199,Residential - Single Family,771179,127 Banfield Pl,Orlando
+4,3,2920,7199,Residential - Single Family,756978,152 Blueleaf St,Orlando
+5,4,3628,7199,Residential - Single Family,813960,156 Blueleaf St,Orlando
+4,3,2712,7199,Residential - Single Family,747394,19342 Banfield Pl,Orlando
+2,2,914,0,Condominium,215000,3279 Westridge Blvd #204,Orlando
+4,3,2235,6000,Residential - Single Family,696391,18851 Rawson St,Orlando
+4,3,2963,7558,Residential - Single Family,975000,205 Emory Pl,Orlando
+3,3,1796,3435,Townhouse,529900,83 W Harding St,Orlando
+3,2,1605,8383,Residential - Single Family,365000,6308 Mackenzie St,Orlando
+3,4,3265,12995,Residential - Single Family,795000,2440 Forest Club Dr,Orlando
+NaN,NaN,2985,NaN,Land,135000,738 S Lee Ave,Orlando
+5,3,2327,6435,Residential - Single Family,784990,27 Stymie Pl,Winter Park
+5,3,2327,6614,Residential - Single Family,884990,393 Niblick Way,Orlando
+4,1,1376,8523,Residential - Single Family,320000,6460 Lyons St,Orlando
+4,4,3537,4094640,Residential - Single Family,1395000,1704 Fairview Shores Dr,Orlando
+2,2,1080,5078,Condominium,234999,4804 Normandy Place E Unit 04 UNIT 04  E103,Orlando
+7,5,2698,13171,Residential - Single Family,1049000,321 E Harvard St,Orlando
+3,2,1805,NaN,Multi Family,489990,7521 Laureate Boulevard # 5307,Orlando
+3,3,1755,3509,Townhouse,469500,2806 Kilgore St,Orlando
+5,3,2998,13931,Residential - Single Family,599900,9029 Lake Avon Dr,Orlando
+3,2,1594,8100,Residential - Single Family,599900,1105 Chichester St,Orlando
+4,4,2685,7893,Residential - Single Family,899000,1021 Garden Plz,Orlando
+3,2,1195,6751,Residential - Single Family,214990,4448 King Cole Blvd,Orlando
+5,3,2327,7050,Residential - Single Family,889990,11 W Steele St,Orlando
+4,3,2963,7021,Residential - Single Family,979990,2801 Harrison Ave,Orlando
+5,5,3909,5400,Residential - Single Family,901580,10639 Marconi Ave,Orlando
+3,3,3092,35213,Residential - Single Family,1500000,908 Edgewater Dr,Orlando
+2,2,1765,19699,Condominium,514850,260 S Osceola Ave #1102,Orlando
+3,2,2085,8055,Condominium,499000,7532 Toscana Blvd #524,Orlando
+2,1,933,11374,Condominium,179000,2648 Robert Trent Jones Dr #222,Orlando
+4,3,2963,6660,Residential - Single Family,985000,45 E New Hampshire St,Orlando
+3,4,2100,42714,Townhouse,615000,54 W Jersey St #11,Orlando
+5,3,2327,6428,Residential - Single Family,789990,25 Stymie Pl,Winter Park
+5,3,2327,6499,Residential - Single Family,794990,309 E Kaley St,Orlando
+5,4,1940,7809,Residential - Single Family,379000,3328 Coleman Pl,Orlando
+5,4,3628,7199,Residential - Single Family,813960,19153 Planetree St,Orlando
+5,4,3628,7199,Residential - Single Family,801531,161 Rawson St,Orlando
+5,4,3628,7199,Residential - Single Family,801531,132 Blueleaf St,Orlando
+6,6,5162,12942,Residential - Single Family,1970000,14201 Corrigan Ave,Orlando
+NaN,NaN,82764,NaN,Land,749500,4518 Arch St,Orlando
+5,4,2889,13996,Residential - Single Family,825000,1814 Hollenbeck Dr,Orlando
+NaN,NaN,103237,NaN,Land,2750000,7567 Narcoossee Rd,Orlando
+3,2,1466,NaN,Condominium,252500,7220 Westpointe Blvd #1427,Orlando
+3,2,1260,10644,Condominium,255000,3209 Parkchester Square Blvd #307,Orlando
+3,3,1788,3692,Residential - Single Family,639187,9955 Pearson,Orlando
+NaN,NaN,8316,NaN,Land,45000,1020 Mack Ave,Orlando
+4,3,2883,7842,Residential - Single Family,792581,13121 Mcmillian Dr,Orlando
+3,1,850,5899,Residential - Single Family,230000,924 Citrus St,Orlando
+4,4,2085,1735,Townhouse,633995,2362 Brix St,Orlando
+3,4,2085,1946,Townhouse,697995,2374 Brix St,Orlando
+4,3,2883,7842,Residential - Single Family,778869,13109 Mcmillian Dr,Orlando
+NaN,NaN,10523,NaN,Land,550000,2509 Elizabeth Ave,Orlando
+1,1,862,3668,Condominium,285000,155 S Court Ave #2312,Orlando
+5,4,3856,7199,Residential - Single Family,916102,18604 Windroot Pl,Orlando
+3,3,1678,737,Townhouse,330000,6117 Metrowest Blvd #101,Orlando
+4,3,1100,7843,Residential - Single Family,315400,625 Romano Ave,Orlando
+5,3,2327,6760,Residential - Single Family,859990,1609 Florinda Dr,Orlando
+5,4,2974,7111,Residential - Single Family,749000,5025 Dove Tree St,Orlando
+4,3,2037,NaN,Residential - Single Family,584990,Plan Juniper - 10774 Pahokee Beach Pl,Orlando
+3,2.5,2216,NaN,Residential - Single Family,609990,Plan Monterey - 10774 Pahokee Beach Pl,Orlando
+3,2.5,2627,NaN,Residential - Single Family,639990,Plan Windsor - 10774 Pahokee Beach Pl,Orlando
+NaN,NaN,4062,NaN,Land,45000,1005 Randall St,Orlando
+3,2,1780,6600,Residential - Single Family,338200,4451 Evers Pl #4,Orlando
+2,2,943,5936,Condominium,189880,6148 Westgate Dr #102,Orlando
+3,4,2702,57259,Condominium,2500000,150 E Robinson St #3505,Orlando
+4,3,2712,7199,Residential - Single Family,764912,18963 Rawson St,Orlando
+4,3,2963,8691,Residential - Single Family,884990,2215 Oregon St,Orlando
+4,3,2963,7155,Residential - Single Family,980000,1847 Baylarian Blvd,Orlando
+5,3,2327,7050,Residential - Single Family,879990,21 W Steele St,Orlando
+5,3,2327,5219,Residential - Single Family,724990,1437 Dann St,Orlando
+3,2,1914,16103,Residential - Single Family,495000,1304 Golfview St,Orlando
+5,3,2327,6778,Residential - Single Family,839999,1409 W Harvard St,Orlando
+5,3,2327,5085,Residential - Single Family,849990,800 W Harvard St,Orlando
+2,2,1535,1631,Condominium,460000,7573 Laureate Blvd #1304,Orlando
+NaN,NaN,3001,NaN,Land,549000,515 N John Young Pkwy,Orlando
+5,4.5,3060,NaN,Residential - Single Family,735990,Plan Fontana - 13450 Gabor Ave,Orlando
+5,3.5,3413,NaN,Residential - Single Family,754990,Plan Rockmoor - 13450 Gabor Ave,Orlando
+4,3,2883,NaN,Residential - Single Family,705990,Plan Coltman - 13450 Gabor Ave,Orlando
+3,2,1292,385598,Condominium,289900,5550 E Michigan St #3230,Orlando
+2,1,896,5475,Condominium,150000,5325 Curry Ford Rd #B103,Orlando
+3,3,1855,NaN,Multi Family,395990,Plan Groveland - 13426 Gabor Ave,Orlando
+3,2.5,1855,NaN,Multi Family,410990,Plan Seacrest - 13426 Gabor Ave,Orlando
+4,3,1855,NaN,Multi Family,395990,Plan Vista - 13426 Gabor Ave,Orlando
+NaN,NaN,1982,NaN,Land,27000,2205 W Jackson St,Orlando
+3,3,1440,5770,Attached Single Family Home,520000,521 West Princeton Street,Orlando
+2,3,1449,1723,Townhouse,599995,2426 Addalia Aly,Orlando
+2,3,2085,1723,Townhouse,659995,2434 Addalia Aly,Orlando
+4,3.5,4062,NaN,Residential - Single Family,1059995,Plan Corbeil - 9429 Golden Laurel Ln,Orlando
+4,4.5,3635,NaN,Residential - Single Family,1029995,Plan Grenache - 9429 Golden Laurel Ln,Orlando
+4,4.5,3971,NaN,Residential - Single Family,1035995,Plan Marsanne - 9429 Golden Laurel Ln,Orlando
+4,4.5,4236,NaN,Residential - Single Family,1072995,Plan Dolcetto - 9429 Golden Laurel Ln,Orlando
+5,4.5,4413,NaN,Residential - Single Family,1089995,Plan Barbera - 9429 Golden Laurel Ln,Orlando
+5,5.5,5801,NaN,Residential - Single Family,1428995,Plan Varen - 9429 Golden Laurel Ln,Orlando
+3,2.5,2976,NaN,Residential - Single Family,947995,Plan Bordeaux - 9429 Golden Laurel Ln,Orlando
+5,4.5,4704,NaN,Residential - Single Family,1304995,Plan Lesmont - 9429 Golden Laurel Ln,Orlando
+5,4.5,4807,NaN,Residential - Single Family,1329995,Plan Tourves - 9429 Golden Laurel Ln,Orlando
+5,4.5,4296,NaN,Residential - Single Family,1266995,Plan Cabris - 9429 Golden Laurel Ln,Orlando
+NaN,NaN,34188,NaN,Land,599900,1027 W Livingston St,Orlando
+4,4,3120,6517,Residential - Single Family,1060800,1404 E Harding St,Orlando
+4,3,1882,3798,Residential - Single Family,680000,15 N Hampton #LOT 4,Orlando
+NaN,NaN,11128,NaN,Land,500000,6300 Oak Chase Ct,Orlando
+4,4.5,2459,NaN,Residential - Single Family,632990,Plan Wilmington - 8704 Crick Aly,Orlando
+4,3.5,2758,NaN,Residential - Single Family,667990,Plan Cardinal - 8704 Crick Aly,Orlando
+3,2,2432,NaN,Residential - Single Family,635990,Plan Bellwood - 8704 Crick Aly,Orlando
+3,2.5,2397,NaN,Residential - Single Family,629990,Plan Talbot - 8704 Crick Aly,Orlando
+4,3,2343,NaN,Residential - Single Family,613990,Plan Mableton - 8704 Crick Aly,Orlando
+4,3,2396,NaN,Residential - Single Family,628990,Plan Savannah - 8704 Crick Aly,Orlando
+5,3,3150,NaN,Residential - Single Family,704990,Plan Standfield - 8704 Crick Aly,Orlando
+3,2,1976,NaN,Residential - Single Family,585990,Plan Cumberland - 8704 Crick Aly,Orlando
+5,2.5,2906,NaN,Residential - Single Family,605990,Plan Clover - 13426 Gabor Ave,Orlando
+3,2,1739,NaN,Residential - Single Family,494990,Plan Hawthorne - 13426 Gabor Ave,Orlando
+3,3.5,2230,NaN,Residential - Single Family,541990,Plan Azalea - 13426 Gabor Ave,Orlando
+4,4,2957,NaN,Residential - Single Family,679990,Plan Lantana Bonus - 13426 Gabor Ave,Orlando
+4,2.5,2018,NaN,Residential - Single Family,516990,Plan Juniper - 13426 Gabor Ave,Orlando
+5,3.5,2688,NaN,Residential - Single Family,586990,Plan Azalea Bonus - 13426 Gabor Ave,Orlando
+3,2,2130,NaN,Residential - Single Family,522990,Plan Orchid - 13426 Gabor Ave,Orlando
+5,5.5,3503,NaN,Residential - Single Family,669990,Plan Zinnia - 13426 Gabor Ave,Orlando
+4,3.5,1789,NaN,Residential - Single Family,499990,Plan Jasmine - 13426 Gabor Ave,Orlando
+4,3.5,1905,NaN,Residential - Single Family,531990,Plan Penta - 13426 Gabor Ave,Orlando
+5,5.5,3191,NaN,Residential - Single Family,642990,Plan Willow - 13426 Gabor Ave,Orlando
+4,3,2970,NaN,Residential - Single Family,625990,Plan Aster - 13426 Gabor Ave,Orlando
+5,4,2647,NaN,Residential - Single Family,583990,Plan Laurel - 13426 Gabor Ave,Orlando
+4,3,2957,NaN,Residential - Single Family,624990,Plan Lantana - 13426 Gabor Ave,Orlando
+5,3,3125,NaN,Residential - Single Family,631990,Plan Orchid Bonus - 13426 Gabor Ave,Orlando
+6,6,5477,12458,Residential - Single Family,1475000,625 Palmer St,Orlando
+4,4.5,3630,NaN,Residential - Single Family,789990,Plan Austin - Boggy Creek Road,Orlando
+4,3,2931,NaN,Residential - Single Family,739990,Plan Hampton - Boggy Creek Road,Orlando
+4,4.5,3303,NaN,Residential - Single Family,767990,Plan Raleigh - Boggy Creek Road,Orlando
+3,2,2085,NaN,Residential - Single Family,631990,Plan Charleston - Boggy Creek Road,Orlando
+4,3,3771,NaN,Residential - Single Family,687990,Plan Norfolk - Boggy Creek Road,Orlando
+4,4.5,3210,NaN,Residential - Single Family,758990,Plan Charlotte - Boggy Creek Road,Orlando
+4,3,2069,NaN,Residential - Single Family,629990,Plan Asheville - Boggy Creek Road,Orlando
+3,2.5,3648,NaN,Residential - Single Family,680990,Plan Richmond - Boggy Creek Road,Orlando
+NaN,NaN,22442,NaN,Land,429900,831 S Parramore Ave,Orlando
+NaN,NaN,41850,NaN,Land,1399000,1611 Page Ave,Orlando
+3,2,1773,NaN,Residential - Single Family,579990,Plan Saddler - 13450 Gabor Ave,Orlando
+3,2.5,2055,NaN,Residential - Single Family,604900,Plan Thatcher - 13450 Gabor Ave,Orlando
+3,2.5,1788,NaN,Residential - Single Family,591900,Plan Mason - 13450 Gabor Ave,Orlando
+4,2.5,2247,NaN,Residential - Single Family,620900,Plan Brewer - 13450 Gabor Ave,Orlando
+3,2,1431,8371,Single Family Residential,305000,8414 Pocasset Pl,Orlando
+NaN,NaN,14665,NaN,Land,620000,1322 Noble Pl,Orlando
+NaN,NaN,811958,NaN,Land,3000000,S Econlockhatchee Trail,Orlando
+2,2.5,1449,NaN,Multi Family,484995,Plan Sampson - Princeton St. And John Young Parkway,Orlando
+2,2.5,1815,NaN,Multi Family,539995,Plan Citrine Elite - Princeton St. And John Young Parkway,Orlando
+2,2.5,2059,NaN,Multi Family,568995,Plan Nova Elite - Princeton St. And John Young Parkway,Orlando
+2,2.5,1815,NaN,Multi Family,516995,Plan Citrine - Princeton St. And John Young Parkway,Orlando
+NaN,NaN,20482,NaN,Land,329000,806 Woods Ave,Orlando
+3,3,1460,4093,1/2 Duplex,300000,6212 Sandcrest Cir,Orlando
+3,2,1232,5013,1/2 Duplex,224900,4474 Goldenrain Ct,Orlando
+6,7,5800,17591,Residential - Single Family,2495000,10395 Woodward Winds Dr,Orlando
+6,7,5803,17744,Residential - Single Family,2495000,10427 Woodward Winds Dr,Orlando
+4,2.5,2235,NaN,Residential - Single Family,601990,Plan Anna Maria - 13426 Gabor Ave,Orlando
+4,3.5,2843,NaN,Residential - Single Family,653990,Plan Captiva - 13426 Gabor Ave,Orlando
+4,4,3100,NaN,Residential - Single Family,728990,Plan Arlington W/ Bonus - 13426 Gabor Ave,Orlando
+4,3.5,2688,NaN,Residential - Single Family,640990,Plan Anna Maria W/ Bonus - 13426 Gabor Ave,Orlando
+4,3.5,3199,NaN,Residential - Single Family,735990,Plan Tidewater W/ Bonus - 13426 Gabor Ave,Orlando
+5,3.5,3628,NaN,Residential - Single Family,760990,Plan Ellington - 13426 Gabor Ave,Orlando
+4,3,2689,NaN,Residential - Single Family,642990,Plan Biscayne - 13426 Gabor Ave,Orlando
+4,3,2687,NaN,Residential - Single Family,701990,Plan Arlington - 13426 Gabor Ave,Orlando
+4,2.5,2717,NaN,Residential - Single Family,703990,Plan Tidewater - 13426 Gabor Ave,Orlando
+3,3,1690,9286,Townhouse,444900,1217 E Muriel St,Orlando
+NaN,NaN,20606,NaN,Land,1500000,644 W Colonial Dr,Orlando
+4,3,2516,13522,Single Family Residential,825000,323 Desoto Cir,Orlando
+3,1,1352,6539,Single Family Residential,369900,809 S Mills Ave,Orlando
+3,2.5,2119,NaN,Multi Family,627990,Plan Clearview - 10774 Pahokee Beach Pl,Orlando
+3,2,1623,10275,Residential - Single Family,624900,1107 E Ridgewood St,Orlando
+NaN,NaN,9150,NaN,Land,210000,726 Cordova Dr,Orlando
+4,4,3465,9147,Single Family Residential,760000,1353 Cumbie St,Orlando
+3,2,2001,NaN,Residential - Single Family,608900,Plan Tanner - 13450 Gabor Ave,Orlando
+4,3.5,2790,NaN,Residential - Single Family,685900,Plan Mercer - 13450 Gabor Ave,Orlando
+3,2.5,2445,NaN,Residential - Single Family,650900,Plan Weaver - 13450 Gabor Ave,Orlando
+4,3.5,2952,NaN,Residential - Single Family,700900,Plan Joiner - 13450 Gabor Ave,Orlando
+4,3,1858,NaN,Residential - Single Family,496990,Plan Trailwood Interior - 10774 Pahokee Beach Pl,Orlando
+4,2.5,2894,NaN,Residential - Single Family,705990,Plan Whitestone - 10774 Pahokee Beach Pl,Orlando
+3,2.5,1652,NaN,Multi Family,471990,Plan Foxtail End Unit - 10774 Pahokee Beach Pl,Orlando
+3,2.5,1756,NaN,Multi Family,531990,Plan Sunbeam - 10774 Pahokee Beach Pl,Orlando
+3,3,2870,NaN,Residential - Single Family,739290,Plan Mystique Grand - 10774 Pahokee Beach Pl,Orlando
+4,3.5,3217,NaN,Residential - Single Family,837990,Plan Ashby Grand - 10774 Pahokee Beach Pl,Orlando
+4,3,1861,NaN,Multi Family,414990,Plan Trailwood - Interior Unit - 5973 Wooden Pine Dr,Orlando
+3,2,1662,NaN,Residential - Single Family,466990,Plan Cedar - 5973 Wooden Pine Dr,Orlando
+4,2,1850,NaN,Residential - Single Family,474990,Plan Highgate - 5973 Wooden Pine Dr,Orlando
+2,2,1889,NaN,Residential - Single Family,630990,Plan Mystique - 10774 Pahokee Beach Pl,Orlando
+4,3.5,4342,NaN,Residential - Single Family,820990,Plan Valencia - 10774 Pahokee Beach Pl,Orlando
+5,3.5,4193,NaN,Residential - Single Family,917490,Plan Easley Grand - 10774 Pahokee Beach Pl,Orlando
+6,4.5,5363,NaN,Residential - Single Family,944990,Plan Upton - 10774 Pahokee Beach Pl,Orlando
+3,2.5,2298,NaN,Residential - Single Family,719990,Plan Ashby - 10774 Pahokee Beach Pl,Orlando
+4,3,1858,NaN,Multi Family,496990,Plan Trailwood Exterior - 10774 Pahokee Beach Pl,Orlando
+5,3.5,3416,NaN,Residential - Single Family,780990,Plan Yorkshire - 10774 Pahokee Beach Pl,Orlando
+3,2.5,1652,NaN,Multi Family,471990,Plan Foxtail Interior Unit - 10774 Pahokee Beach Pl,Orlando
+4,2.5,3820,NaN,Residential - Single Family,839990,Plan Oakhurst - 10774 Pahokee Beach Pl,Orlando
+3,2.5,2684,NaN,Residential - Single Family,769990,Plan Easley - 10774 Pahokee Beach Pl,Orlando
+4,2.5,2908,NaN,Residential - Single Family,523990,Plan Whitestone - 5973 Wooden Pine Dr,Orlando
+3,2.5,1652,NaN,Multi Family,397990,Plan Foxtail - Interior Unit - 5973 Wooden Pine Dr,Orlando
+4,2.5,2397,NaN,Residential - Single Family,503990,Plan Tower - 5973 Wooden Pine Dr,Orlando
+4,3,1861,NaN,Multi Family,414990,Plan Trailwood - Exterior Unit - 5973 Wooden Pine Dr,Orlando
+3,2,2162,NaN,Residential - Single Family,483990,Plan Spruce - 5973 Wooden Pine Dr,Orlando
+3,2.5,1652,NaN,Multi Family,397990,Plan Foxtail - Exterior Unit - 5973 Wooden Pine Dr,Orlando
+NaN,NaN,12774,NaN,Land,299900,3412 Curry Ford Rd,Orlando
+2,2,1056,9150,Condominium,325000,7383 Universal Blvd #307,Orlando
+NaN,NaN,78408,NaN,Land,999900,3431 Shader Rd,Orlando
+NaN,NaN,66362,NaN,Land,1199000,33 Rd St,Orlando
+6,6,4415,7199,Residential - Single Family,840000,18363 Mowry Ct,Orlando
+2,2,1157,28480,Condominium,449000,322 E Central Blvd #1413,Orlando
+2,2,934,3601,Condominium,245000,4712 Sutton Ter #114C1,Orlando
+3,1,1003,10447,Residential - Single Family,219900,809 Columbia St,Orlando
+2,2,1085,58858,Condominium,279000,911 N Orange Ave #449,Orlando
+2,2,889,9835,Condominium,185000,2966 S Semoran Blvd #1605,Orlando
+2,1,1100,8000,Residential - Single Family,375000,626 W Winter Park St,Orlando
+3,3,2051,20404,Residential - Single Family,395000,4364 Real Ct,Orlando
+4,3,2901,9401,Residential - Single Family,899000,811 E Marks St,Orlando
+3,2,1387,5100,Residential - Single Family,300000,2799 Heatherside Ave,Orlando
+2,2,909,2564,Condominium,160000,4136 Yellow Pine Ln #2,Orlando
+3,3,1946,5502,Residential - Single Family,499000,1813 Osman Ave,Orlando
+3,2,2445,8129,Residential - Single Family,745000,9779 Cypress Pine St,Orlando
+3,3,1951,8138,Residential - Single Family,545000,845 Floral Dr,Orlando
+2,2,851,29131,Condominium,169900,4882 S Semoran Blvd #1408,Orlando
+2,2,1120,0,Condominium,235000,6560 Swissco Dr #325,Orlando
+3,2,2000,6191,Residential - Single Family,438000,8873 Venezia Plantation Dr,Orlando
+1,1,673,7883,Condominium,150000,1017 S Hiawassee Rd #3735,Orlando
+4,6,3252,6102,Residential - Single Family,1075000,440 Delaney Park Dr,Orlando
+2,2,934,8154,Condominium,199000,1039 S Hiawassee Rd #2912,Orlando
+1,1,751,11663,Condominium,219500,1100 Delaney Ave #F307,Orlando
+4,2,1377,5166,Residential - Single Family,299900,5457 Bayberry Homes Rd,Orlando
+4,2,1851,4985,Residential - Single Family,449000,5206 Mystic Point Ct,Orlando
+3,3,2508,14071,Residential - Single Family,350000,4293 Booker St S,Orlando
+2,2,876,1038,Condominium,207000,4300 Hector Ct #7,Orlando
+4,4,2794,5401,Residential - Single Family,889000,2875 Stanfield Ave,Orlando
+4,5,3773,13370,Residential - Single Family,1448000,1109 E Jackson St,Orlando
+2,2,930,756179,Condominium,189000,2544 Woodgate Blvd #201,Orlando
+2,2,960,1015,Condominium,180000,4450 Ring Neck Rd #A,Orlando
+2,2,994,12324,Condominium,198000,730 E Michigan St #124,Orlando
+2,2,1083,2655,Residential - Single Family,250000,3875 Villa Rose Ln,Orlando
+2,2,820,NaN,Condominium,188000,3851 Atrium #37,Orlando
+2,2,1773,32559,Condominium,700000,101 S Eola Dr #1210,Orlando
+3,3,1960,6896,Townhouse,449000,3014 Kilgore St,Orlando
+2,2,1112,16332,Condominium,245000,3344 Robert Trent Jones Dr #10205,Orlando
+4,3,3643,11849,Residential - Single Family,2600000,2501 Lake Shore Dr,Orlando
+1,1,1037,4445,Condominium,150000,6004 Westgate Dr #302,Orlando
+3,2,1644,10442,Residential - Single Family,464800,2516 Hargill Dr,Orlando
+1,1,673,8637,Condominium,149999,1037 S Hiawassee Rd #2813,Orlando
+3,2,1054,7144,Residential - Single Family,249000,3044 Willow Bend Blvd,Orlando
+3,2,1331,5484,Residential - Single Family,289000,2013 Winslow Dr,Orlando
+2,2,1300,10531,Condominium,339900,1260 Saint Tropez Cir #1260,Orlando
+2,2,1255,32559,Condominium,380000,101 S Eola Dr #612,Orlando
+3,2,1200,5977,Attached Single Family Home,430000,113 N Hampton Ave,Orlando
+3,2,1385,8360,Residential - Single Family,399000,726 Tam O Shanter Dr,Orlando
+4,3,2634,6002,Residential - Single Family,899000,620 E Marks St,Orlando
+3,2,1418,8894,Residential - Single Family,275000,4782 Point Look Out Rd,Orlando
+1,1,675,58858,Condominium,199500,911 N Orange Ave #103,Orlando
+4,3,2962,8699,Residential - Single Family,580000,7374 Chelsea Harbour Dr,Orlando
+2,2,830,10001,Condominium,165900,2031 Dixie Belle Dr #2031,Orlando
+3,2,1433,5484,Residential - Single Family,280000,2010 Plainfield Dr,Orlando
+4,4,2749,6767,Residential - Single Family,1179000,1606 Hart Ln,Orlando
+3,3,1682,979,Townhouse,360000,6301 Daysbrook Dr #104,Orlando
+3,3,2252,16875,Residential - Single Family,694500,1112 Chichester St,Orlando
+3,2.1,1791,NaN,Single Family - Detached,509000,14161 Walcott Ave,Orlando
+1,1,655,565755,Condominium,137300,3276 S Semoran Blvd #1,Orlando
+2,2,1140,151882,Condominium,270000,4700 Buggy Whip Ln #103,Orlando
+2,2,1215,6672,Condominium,245000,5132 Cypress Creek Dr #104,Orlando
+2,2,1125,5787,Condominium,149900,4207 S Semoran Blvd #10,Orlando
+1,1,537,2413,Condominium,185000,2425 E Central Blvd #6,Orlando
+2,2,1460,1598,Condominium,394900,7573 Laureate Blvd #1-401,Orlando
+1,1,580,9080,Condominium,135900,5500 Devonbriar Way #209,Orlando
+3,2,1508,8291,Residential - Single Family,395900,813 Morocco Ave,Orlando
+2,2,1126,4775,Condominium,205000,5424 E Michigan St #1,Orlando
+3,3,1753,1899,Residential - Single Family,374900,9517 Silver Buttonwood St,Orlando
+4,2,1471,5258,Multi Family,195000,2312 W Jackson St,Orlando
+4,4,2820,9465,Residential - Single Family,575000,9644 Leland Dr,Orlando
+3,2,1982,8203,Residential - Single Family,550000,935 N Hyer Ave,Orlando
+4,3,2032,10307,Residential - Single Family,599999,2300 E Central Blvd,Orlando
+4,3,2291,7363,Residential - Single Family,439900,3427 Windy Wood Dr,Orlando
+3,2,2047,22058,Residential - Single Family,635000,3607 N Westmoreland Dr,Orlando
+2,2,1032,7095,Condominium,229900,9069 Lee Vista Blvd #1209,Orlando
+2,2,1054,8224,Condominium,180000,4532 Commander Dr #2127,Orlando
+,NaN,1655,7004,Multi Family,299000,816 W Concord St,Orlando
+4,2,2570,9354,Residential - Single Family,499000,9028 Lake Avon Dr,Orlando
+4,2,1252,6728,Residential - Single Family,225000,4746 Kirkland Blvd,Orlando
+1,1,1173,5348,Condominium,142900,5314 Burning Tree Dr #A,Orlando
+4,3,2343,7094,Residential - Single Family,714202,86 Marconi Ave,Orlando
+3,3,3725,7500,Residential - Single Family,349800,3610 Dubsdread Cir,Orlando
+3,2,1724,5250,Residential - Single Family,489900,3220 Tall Timber Dr,Orlando
+2,2,876,1037,Condominium,209000,4324 Hector Ct #3,Orlando
+3,1,1100,8004,Residential - Single Family,240000,6440 Greylynne St,Orlando
+5,4,3762,6326,Residential - Single Family,850000,10051 Baywater Breeze Dr,Orlando
+2,2,1091,7862,Condominium,249000,3713 Conroy Rd #1925,Orlando
+2,2,1142,12577,Condominium,220000,5463 Vineland Rd #5103,Orlando
+2,2,1051,4534,Condominium,225900,6376 Raleigh St #2002,Orlando
+3,2,1426,4233,Condominium,173000,4409 S Semoran Blvd #5,Orlando
+2,2,939,1248,Condominium,185000,4798 Lake Ridge Rd #64,Orlando
+3,3,1635,2216,Townhouse,360000,10299 Lake District Ln #49C,Orlando
+3,3,2669,6073,Townhouse,860000,1936 Meeting Pl,Orlando
+2,2,860,5386,Condominium,210000,4860 Marks Ter #406B1,Orlando
+1,1,786,17414,Condominium,150000,5500 Metrowest Blvd #209,Orlando
+2,2,1648,1752,Condominium,335000,4177 N Orange Blossom Trl #504,Orlando
+3,2,1284,9405,Residential - Single Family,290000,6386 Mainsail Ct,Orlando
+4,3,2016,6320,Multi Family,499900,46 E Princeton St,Orlando
+2,2,1139,5299,Condominium,125000,5121 Eaglesmere Dr #C05,Orlando
+1,1,735,8084,Condominium,124000,4536 Commander Dr #1513,Orlando
+1,1,627,7193,Condominium,150000,1015 S Hiawassee Rd #3526,Orlando
+2,2,1233,11783,Condominium,205000,3280 Soho St #305,Orlando
+5,4,2908,7030,Residential - Single Family,815000,438 Woodland St,Orlando
+2,2,1230,5050,Residential - Single Family,279000,3886 Villa Rose Ln,Orlando
+4,3,2170,6081,Residential - Single Family,550000,8163 Corkfield Ave,Orlando
+2,2,1123,7300,Condominium,145000,5332 Burning Tree Dr #D,Orlando
+3,2,1545,6521,Residential - Single Family,355000,664 Bellhurst Ct,Orlando
+2,3,1250,698,Condominium,254900,2352 Grand Central Pkwy #18,Orlando
+2,2,1107,0,Condominium,195000,3406 Soho St #208,Orlando
+4,4,3446,8882,Residential - Single Family,847000,10664 Warlow Creek St,Orlando
+3,2,1780,10594,Residential - Single Family,260000,912 S Goldwyn Ave,Orlando
+3,2,1586,7316,Residential - Single Family,395000,1704 Curry Ford Rd,Orlando
+1,1,751,11663,Condominium,199000,1100 Delaney Ave #F407,Orlando
+2,2,825,429986,Condominium,130000,6008 Village Cir #GE,Orlando
+3,1,1124,7000,Residential - Single Family,229900,4548 Cepeda St,Orlando
+3,2,1408,15557,Condominium,259000,1212 S Hiawassee Rd #524,Orlando
+3,2,1574,11087,Residential - Single Family,409900,4400 Elaine Pl,Orlando
+3,2,1482,7290,Residential - Single Family,185000,516 S Dollins Ave,Orlando
+3,3,1771,2428,Townhouse,367999,10752 Garden Lily Dr #21C,Orlando
+1,3,1833,23774,Condominium,475000,10 N Summerlin Ave #55,Orlando
+2,2,1107,1107,Condominium,200000,3315 Parkchester Square Blvd #108,Orlando
+2,2,1028,10071,Condominium,196000,5132 Conroy Rd #914,Orlando
+4,2,1853,6105,Residential - Single Family,420000,8495 Lake Amhurst Trl,Orlando
+1,2,980,0,Condominium,315000,101 S Eola Dr #1017,Orlando
+4,3,2870,6006,Residential - Single Family,1350000,542 W Yale St,Orlando
+1,1,700,7296,Condominium,155000,4649 Cason Cove Dr #2513,Orlando
+2,2,1144,5791,Residential - Single Family,519700,204 N Brown Ave,Orlando
+2,2,950,7697,Residential - Single Family,130000,5475 Karen Ct,Orlando
+2,2,741,429986,Condominium,149900,5997 Village Cir #GE,Orlando
+3,2,1457,837,Condominium,265000,2604 Grand Central Pkwy #5,Orlando
+4,4,3524,9895,Residential - Single Family,850000,10057 Oak Quarry Dr,Orlando
+2,1,918,6889,Residential - Single Family,405000,1404 Mount Vernon St,Orlando
+3,2,1995,9365,Residential - Single Family,374500,2909 Hargill Dr,Orlando
+2,2,1187,4998,Residential - Single Family,475000,807 Stetson St,Orlando
+2,2,1644,3105,Townhouse,450000,9085 Laureate Blvd,Orlando
+4,2,1945,13929,Multi Family,230000,931 Grand St,Orlando
+3,2,1412,16332,Condominium,270000,3338 Robert Trent Jones Dr #310,Orlando
+2,2,829,7101,Condominium,210000,1057 S Hiawassee Rd #1918,Orlando
+4,2,1300,6601,Residential - Single Family,199000,2071 Liston Ct,Orlando
+4,3,3006,6024,Residential - Single Family,825000,8603 Dubochet St,Orlando
+2,2,1235,5615,Condominium,239500,3202 Parkchester Square Blvd #102,Orlando
+3,3,1830,3399,Townhouse,485000,8656 Elder Ln,Orlando
+2,3,1250,0,Condominium,260000,2532 Grand Central Pkwy #19,Orlando
+3,2,1408,15557,Condominium,257000,1212 S Hiawassee Rd #526,Orlando
+2,2,934,8292,Condominium,195000,1065 S Hiawassee Rd #1417,Orlando
+2,2,1051,4673,Condominium,210000,6360 Raleigh St #1703,Orlando
+2,2,1023,21330,Condominium,212000,5433 Lake Margaret Dr #194,Orlando
+3,3,2216,3826,Residential - Single Family,645667,10257 Folly Beach Rd,Orlando
+4,3,2037,3825,Residential - Single Family,679260,14041 Kauai Dr,Orlando
+2,2,1054,0,Condominium,234850,5550 E Michigan St #1114,Orlando
+4,3,1973,5779,Multi Family,150000,437 Ruth Ln,Orlando
+2,1,896,3786,Condominium,139000,5325 Curry Ford Rd #20,Orlando
+4,3,2357,11480,Residential - Single Family,494500,3508 Marston Dr,Orlando
+2,2,1255,7095,Condominium,249999,9069 Lee Vista Blvd #1205,Orlando
+1,1,660,7410,Condominium,139700,5533 Chrishire Way #F-104,Orlando
+3,3,1878,3666,Residential - Single Family,679000,13235 Beebe Aly,Orlando
+4,3,2733,71151,Residential - Single Family,789000,6727 Fairway Cove Dr,Orlando
+2,2,960,1022,Condominium,154900,4409 Ring Neck Rd #21A,Orlando
+1,1,772,385598,Condominium,172500,5550 E Michigan St #3224,Orlando
+2,1,1008,7593,Residential - Single Family,379000,1711 Canton St,Orlando
+3,2,1597,8245,Residential - Single Family,295000,3009 Marathon Ave,Orlando
+2,2,943,5936,Condominium,199950,6124 Westgate Dr #102,Orlando
+2,2,1299,93664,Condominium,285000,4801 Coachmans Dr #4,Orlando
+3,3,1606,1883,Townhouse,329850,3270 Villa Strada Way,Orlando
+4,3,2360,8031,Residential - Single Family,489000,7818 Saint Andrews Cir,Orlando
+3,2,1311,6287,Residential - Single Family,410000,2104 Tangerine St,Orlando
+1,1,735,7979,Condominium,144000,4606 Commander Dr #1134,Orlando
+3,2,1408,0,Condominium,250000,7147 Yacht Basin Ave #115,Orlando
+4,2,1200,6100,Multi Family,359900,718 Putnam Ave,Orlando
+2,2,1162,27795,Condominium,409000,630 Vassar St #2510,Orlando
+2,2,1088,9888,Condominium,229900,6560 Swissco Dr #311,Orlando
+2,3,1177,749,Condominium,189000,4657 Lighthouse Cir #118,Orlando
+2,1,810,12685,Condominium,165000,4301 Lizshire Ln #108,Orlando
+1,1,722,4445,Condominium,147990,6154 Westgate Dr #201,Orlando
+1,1,750,0,Condominium,199888,6171 Metrowest Blv Blvd #103,Orlando
+3,2,1825,10126,Residential - Single Family,333000,524 Vern Dr,Orlando
+5,3,1284,10232,Residential - Single Family,399000,2415 Chelsea St,Orlando
+2,2,1198,32559,Condominium,420000,101 S Eola Dr #1002,Orlando
+2,2,846,122092,Condominium,210000,2530 Oak Park Way #202,Orlando
+2,2,925,1249,Condominium,165000,4804 Lake Ridge Rd #10,Orlando
+3,3,2010,1423,Condominium,365000,6316 Miramonte Dr #102,Orlando
+2,2,1200,727307,Townhouse,298990,6670 S Goldenrod Rd #A,Orlando
+3,2,1777,10040,Residential - Single Family,290000,5136 Neponset Ave,Orlando
+2,2,1116,593,Condominium,299000,2218 Elizabeth Ave #3,Orlando
+5,6,4937,7799,Residential - Single Family,1049888,11416 Beau Repos Dr,Orlando
+3,2,1009,7746,Residential - Single Family,450000,455 Buckminster Cir,Orlando
+4,4,3476,11507,Residential - Single Family,1389900,3600 Parkland Dr,Orlando
+3,2,1318,16772,Condominium,265000,5475 Vineland Rd #8208,Orlando
+1,1,731,6113,Condominium,178000,6171 Metrowest Blvd #204,Orlando
+2,2,1051,4912,Condominium,220000,6404 Raleigh St #2302,Orlando
+2,2,1233,11780,Condominium,199000,3468 Soho St #B04,Orlando
+1,1,779,7671,Condominium,162700,4312 S Kirkman Rd #1406,Orlando
+2,2,1101,9281,Condominium,178000,4548 Commander Dr #1421,Orlando
+2,2,1054,7979,Condominium,190000,4606 Commander Dr #1111,Orlando
+3,3,1872,2328,Condominium,319900,5019 Nassau Cir #5,Orlando
+3,2,1811,9369,Residential - Single Family,349000,1804 Curry Ave,Orlando
+2,1,912,5835,Residential - Single Family,369900,838 Ellwood Ave,Orlando
+3,3,1652,17182,Townhouse,414990,6069 Arbor Watch Loop,Orlando
+4,3,1862,2420,Townhouse,420070,6015 Arbor Watch Loop,Orlando
+3,2,1247,1280,Condominium,275000,6451 Old Park Ln #101,Orlando
+2,2,1045,52025,Condominium,233035,3960 Southpointe Dr #520,Orlando
+1,1,1184,4445,Condominium,179900,6034 Westgate Dr #203,Orlando
+1,1,685,93940,Condominium,210000,304 E South St #5020,Orlando
+2,1,888,8646,Residential - Single Family,195000,3704 Wells St,Orlando
+5,5,4065,7706,Residential - Single Family,1295000,13009 Gabor Ave,Orlando
+2,2,1250,NaN,Condominium,218000,4386 Lake Underhill Rd #C,Orlando
+4,2,1254,7201,Residential - Single Family,319500,4473 Malibu St,Orlando
+4,2,1420,6610,Residential - Single Family,530000,2410 Center Ave,Orlando
+2,2,960,1026,Condominium,167900,4416 Prairie Ct #A,Orlando
+2,2,845,10130,Condominium,179900,2071 Dixie Belle Dr #2071P,Orlando
+3,2,1458,10854,Residential - Single Family,315000,5730 Kislin Pl,Orlando
+4,2,1851,6001,Residential - Single Family,429900,3101 Cayman Way,Orlando
+2,2,1141,12472,Condominium,238000,3325 S Kirkman Rd #411,Orlando
+4,3,3001,5500,Residential - Single Family,619000,9725 Oak Crest Rd,Orlando
+3,3,1605,423307,Condominium,315000,5355 Emerald Isle Dr #1018,Orlando
+3,3,2126,9904,Residential - Single Family,422400,1400 Montclair Ct,Orlando
+2,2,1070,87729,Condominium,255000,860 N Orange Ave #260,Orlando
+3,2,1740,10021,Residential - Single Family,357000,4999 Lacaya Way,Orlando
+2,1,902,93462,Condominium,248000,2426 Tack Room Ln #4,Orlando
+2,2,829,3781,Condominium,199925,1041 S Hiawassee Rd #3011,Orlando
+3,2,1641,7135,Residential - Single Family,334900,4900 Regis Ct,Orlando
+3,3,1795,2860,Townhouse,332000,10018 Moorshire Cir,Orlando
+NaN,NaN,18499,NaN,Land,1050000,8551 Lake Nona Shore Dr,Orlando
+3,2,1431,11397,Residential - Single Family,299999,3005 Cashmere Dr,Orlando
+3,4,2413,40953,Residential - Single Family,599900,808 Edgewater Dr,Orlando
+2,3,1260,60450,Condominium,265000,5978 Braemar Pl #109,Orlando
+NaN,NaN,3977,NaN,Land,42000,804 Randall St,Orlando
+3,3,2531,5401,Residential - Single Family,760000,1305 Bennett Rd,Orlando
+3,2,1189,7007,Residential - Single Family,445000,3222 N Orange Ave,Orlando
+3,3,2710,7017,Residential - Single Family,985000,1517 S Mills Ave,Orlando
+3,2,1328,6016,Residential - Single Family,447000,1407 Noble Pl,Orlando
+3,6,6576,31684,Residential - Single Family,3200000,1000 N Lake Adair Blvd,Orlando
+3,2,1303,4620,Residential - Single Family,310000,448 Delicata Dr,Orlando
+4,3,2658,5691,Residential - Single Family,550000,8765 Ribault Ave,Orlando
+3,2,960,6804,Residential - Single Family,200000,4827 Lanette St,Orlando
+4,3,1861,14366,Townhouse,432620,10964 Leafshore Loop,Orlando
+3,2,1554,4775,Residential - Single Family,430000,11980 Iselle Dr,Orlando
+3,2,1430,8370,Residential - Single Family,469900,3904 Corrine Dr,Orlando
+1,1,711,8645,Condominium,145000,5124 Conroy Rd #13,Orlando
+2,2,1165,9121,Condominium,165000,4093 Dijon Dr #4093H,Orlando
+2,1,933,11322,Condominium,165000,2532 Robert Trent Jones Dr #1523,Orlando
+4,2,2162,8122,Residential - Single Family,415000,5801 Whitley Bay Ln,Orlando
+2,2,1133,57259,Condominium,549900,150 E Robinson St #2505,Orlando
+5,4,4578,11756,Residential - Single Family,1400000,10312 Woodward Winds Dr,Orlando
+2,2,1065,0,Condominium,266900,4105 Fairview Vista Pt #224,Orlando
+4,3,2397,8732,Residential - Single Family,538570,5432 Log Grove Ln,Orlando
+4,3,2908,6000,Residential - Single Family,665640,6030 Arbor Watch Loop,Orlando
+3,2,1624,8795,Residential - Single Family,349900,4054 Thomassa Ct,Orlando
+2,2,1526,8400,Residential - Single Family,449000,1015 E Amelia St,Orlando
+4,3,3120,740520,Residential - Single Family,749000,1510 Woodland St,Orlando
+2,2,1320,20878,Condominium,355000,525 E Jackson St #408,Orlando
+4,2,1380,4706,Residential - Single Family,354999,6915 Needle Pointe Dr,Orlando
+2,2,830,10130,Condominium,169000,2035 Dixie Belle Dr #2035G,Orlando
+4,2,1500,9567,Residential - Single Family,299990,2189 Liston Ct,Orlando
+3,2,1430,4885,Condominium,285000,3301 Soho St #49-201,Orlando
+2,2,1107,11780,Condominium,219500,3468 Soho St #301,Orlando
+2,2,1080,NaN,Condominium,189000,4809 Normandy Pl #103,Orlando
+3,1,1329,9056,Residential - Single Family,425000,1525 S Mills Ave,Orlando
+3,2,1932,28480,Condominium,1096000,322 E Central Blvd #1901,Orlando
+3,2,1833,5737,Residential - Single Family,395000,6091 Froggatt St,Orlando
+2,2,1083,4511,Attached Single Family Home,289900,3125 Graceland Ct,Orlando
+2,2,914,448303,Condominium,235000,6068 Willowpointe Cir #202,Orlando
+4,4,2070,1182,Townhouse,495000,524 Lanark Ct,Orlando
+3,1,1010,8740,Residential - Single Family,260000,3721 Wilts St,Orlando
+3,3,2126,16800,Residential - Single Family,549000,6549 Hidden Beach Cir,Orlando
+3,2,1840,2002,Condominium,447000,7517 Laureate Blvd #4207,Orlando
+3,4,2212,3610,Townhouse,650000,1602 Park Lake St #1,Orlando
+2,2,1061,573,Condominium,180000,4463 Ring Neck Rd #B,Orlando
+3,3,1594,2035,Townhouse,360500,3153 Merton Aly,Orlando
+5,4,3092,6324,Residential - Single Family,549000,19366 Fallglo Dr,Orlando
+5,5,2721,10511,Residential - Single Family,1195000,3230 N Orange Ave,Orlando
+3,4,2464,16499,Residential - Single Family,820000,1728 Spring Lake Dr,Orlando
+3,2,1132,4400,Attached Single Family Home,287500,5944 Branch Dr,Orlando
+4,2,1678,9595,Residential - Single Family,445000,706 Strathmore Dr,Orlando
+2,2,935,NaN,Condominium,167990,4367 Thornbriar Ln #207,Orlando
+4,3,3848,12634,Residential - Single Family,669900,1730 Knotting Hill Dr,Orlando
+2,3,1285,2565,Condominium,234000,5252 Middle Ct #103,Orlando
+1,2,921,57259,Condominium,372500,150 E Robinson St #1015,Orlando
+3,2,1408,15101,Condominium,250000,6214 Stevenson Dr #309,Orlando
+3,2,1253,NaN,Condominium,210000,4518 Commander Dr #1928,Orlando
+4,3,2527,14322,Residential - Single Family,675000,1144 Arthur St,Orlando
+2,2,1120,9888,Condominium,229000,6584 Swissco Dr #724,Orlando
+4,2,2162,6000,Residential - Single Family,599745,6042 Arbor Watch Loop,Orlando
+4,3,2397,6000,Residential - Single Family,543000,10815 Leafshore Loop,Orlando
+3,2,1958,7090,Residential - Single Family,599000,11970 Xenia Ln,Orlando
+4,2,1850,6000,Residential - Single Family,549485,6078 Arbor Watch Loop,Orlando
+5,1,1706,8004,Residential - Single Family,290000,6431 Mackenzie St,Orlando
+3,2,1092,9008,Residential - Single Family,379000,221 E Muriel St,Orlando
+3,3,1665,1020,Condominium,299999,6480 Ranelagh Dr #108,Orlando
+3,4,1486,6813,Residential - Single Family,339000,4623 Cypress St,Orlando
+4,3,2642,8395,Residential - Single Family,669000,1322 Shorewood Dr,Orlando
+1,1,720,675,Condominium,160000,3744 Southpoint #5,Orlando
+4,4,3271,7200,Residential - Single Family,590000,6586 Lake Pembroke Pl,Orlando
+5,3,2397,6000,Residential - Single Family,625440,6102 Arbor Watch Loop,Orlando
+3,4,1969,1512,Townhouse,599999,125 W Grant St,Orlando
+2,2,1255,4953,Condominium,275000,8989 Lee Vista Blvd #2105,Orlando
+4,3,2691,6652,Residential - Single Family,565000,8739 Abbey Leaf Ln,Orlando
+2,2,1198,32559,Condominium,415000,101 S Eola Dr #1110,Orlando
+2,3,1260,NaN,Townhouse,235000,5950 Scotchwood Gln #106,Orlando
+3,2,1232,16772,Condominium,255000,5475 Vineland Rd #8113,Orlando
+2,3,1540,1800,Townhouse,399900,7025 Cadiz Blvd,Orlando
+3,2,1340,8690,Residential - Single Family,359500,2916 E Marks St,Orlando
+3,2,1412,1917,Condominium,339900,6451 Old Park Ln #105,Orlando
+5,4,2856,7517,Residential - Single Family,489900,4902 Heartland St,Orlando
+1,2,980,32559,Condominium,279900,101 S Eola Dr #614,Orlando
+2,2,1263,3668,Condominium,399900,155 S Court Ave #2005,Orlando
+3,2,1243,6134,Residential - Single Family,440000,346 Roswell Ave,Orlando
+4,4,4037,9143,Residential - Single Family,1145000,9420 Dugard Ct,Orlando
+4,3,2305,6400,Residential - Single Family,699000,626 Florida St,Orlando
+4,3,2428,9261,Residential - Single Family,485000,1000 Paladin Ct,Orlando
+2,2,953,94715,Condominium,175000,2525 Oak Park Way #119,Orlando
+3,4,2241,1887,Townhouse,659990,7704 Nemours Pkwy,Orlando
+2,1,1359,7889,Residential - Single Family,410000,817 Mayfair Cir,Orlando
+4,3,2477,6348,Residential - Single Family,998000,9206 Yonath St,Orlando
+1,2,1338,23774,Condominium,414999,10 N Summerlin Ave #6,Orlando
+3,2,1788,5499,Residential - Single Family,459900,4979 Longmeadow Park St,Orlando
+2,2,1074,7805,Residential - Single Family,225000,533 Eartha Ln,Orlando
+3,3,1809,4731,Townhouse,399000,5204 Sapling Sprout Dr,Orlando
+2,2,1119,9098,Residential - Single Family,365000,3218 Anderson Pl,Orlando
+5,5,3518,7363,Residential - Single Family,923009,116 Leggett Aly,Orlando
+3,2,1600,6122,Residential - Single Family,248500,3478 Westchester Square Blvd #204,Orlando
+1,2,765,5621,Condominium,124500,4155 S Semoran Blvd #5,Orlando
+3,1,914,8617,Residential - Single Family,167400,4201 Lake Lawne Ave,Orlando
+3,2,1941,6423,Residential - Single Family,650000,12028 Xenia Ln,Orlando
+2,3,1285,0,Townhouse,249000,5258 Cypress Ct,Orlando
+3,3,1710,9108,Residential - Single Family,359900,652 Charing Ct,Orlando
+4,4,3320,6000,Residential - Single Family,752988,93 Allium Pl,Orlando
+5,4,3320,6000,Residential - Single Family,690664,19315 Banfield Pl,Orlando
+3,2,1805,NaN,Condominium,487900,7517 Laureate Blvd #4402,Orlando
+4,4,4226,7200,Residential - Single Family,914871,14 Mowry Ct,Orlando
+2,1,933,11677,Condominium,179900,2544 Robert Trent Jones Dr #824,Orlando
+3,2,1320,7215,Residential - Single Family,499000,2019 E Jefferson St,Orlando
+2,2,979,11763,Condominium,218000,5105 City St #817,Orlando
+5,4,3320,6000,Residential - Single Family,767988,158 Blueleaf St,Orlando
+5,4,3120,6000,Residential - Single Family,710226,19355 Banfield Pl,Orlando
+1,1,825,538,Condominium,128500,1928 Conway Rd #36,Orlando
+3,3,1700,3753,Townhouse,479000,2513 E Central Blvd #C,Orlando
+1,1,945,0,Condominium,154900,3468 Soho St #305,Orlando
+4,3,1861,3768,Townhouse,443050,11069 Leafshore Loop,Orlando
+3,3,1614,1842,Townhouse,360000,10317 Lake District Ln #52B,Orlando
+3,3,2148,4097,Residential - Single Family,559900,2328 Oberlin Ave,Orlando
+4,2,2134,9228,Residential - Single Family,310000,3431 Fitzgerald Dr,Orlando
+3,2,1155,6600,Residential - Single Family,120000,4437 King Cole Blvd,Orlando
+2,2,1008,756,Condominium,185000,2560 Woodgate Blvd #204,Orlando
+3,3,1652,2420,Townhouse,429200,10948 Leafshore Loop,Orlando
+4,3,1858,2100,Townhouse,509990,14262 Sapelo Beach Dr,Orlando
+2,2,1204,8187,Residential - Single Family,375000,200 W Spruce St,Orlando
+NaN,NaN,25000,NaN,Land,3500000,601 E Jackson St,Orlando
+2,2,1549,0,Condominium,449990,7521 Laureate Blvd #5203,Orlando
+3,2,1253,10259,Condominium,110000,4528 Commander Dr #2018,Orlando
+1,1,780,4899,Condominium,79900,2787 L B Mcleod Rd #C,Orlando
+3,3,1700,3753,Townhouse,490000,2515 E Central Blvd #B,Orlando
+6,2,2184,10228,Residential - Single Family,279000,4954 Lescot Ln,Orlando
+1,1,560,6327,Condominium,135000,4712 Walden Cir #15,Orlando
+2,2,1133,8756,Condominium,207900,7210 Westpointe Blvd #1323,Orlando
+1,1,786,6506,Condominium,167900,1090 E Michigan St #A,Orlando
+4,2,2033,16119,Residential - Single Family,391000,3724 S Lake Orlando Pkwy,Orlando
+3,2,2736,4800,Residential - Single Family,808346,141 Marconi Ave,Orlando
+3,5,2250,2160,Townhouse,429990,10742 Sunset Ridge Ln,Orlando
+5,4,3400,7094,Residential - Single Family,885581,145 Marconi Ave,Orlando
+4,3,2724,7094,Residential - Single Family,885837,140 Marconi Ave,Orlando
+4,4,3470,6843,Residential - Single Family,929401,92 Neruda St,Orlando
+3,2,1237,9989,Condominium,220000,5156 Conroy Rd #1138,Orlando
+5,5,3252,7441,Residential - Single Family,1294900,513 Rugby St,Orlando
+5,4,3103,7094,Residential - Single Family,839894,108 Marconi Ave,Orlando
+3,2,1976,5835,Residential - Single Family,645990,144 Marconi St,Orlando
+5,4,3484,4819,Residential - Single Family,825622,91 Neruda St,Orlando
+5,4,3103,5835,Residential - Single Family,750379,136 Leggett Aly,Orlando
+4,2,3400,5835,Residential - Single Family,660990,124 Peebles St,Orlando
+3,2,1374,9464,Residential - Single Family,275000,5080 Stone Harbour Rd,Orlando
+1,1,674,9127,Condominium,145000,2674 Robert Trent Jones Dr #333,Orlando
+2,1,720,7503,Residential - Single Family,299999,3478 Fairway Ln,Orlando
+2,2,889,12436,Condominium,85000,2960 S Semoran Blvd #1503,Orlando
+1,2,980,32559,Condominium,314990,101 S Eola Dr #1014,Orlando
+5,3,2327,7721,Residential - Single Family,885000,1402 Guernsey St,Orlando
+3,2,2001,5400,Residential - Single Family,625000,14627 Englert Aly,Orlando
+1,1,975,83466,Condominium,205000,151 E Washington St #314,Orlando
+4,4,2908,6000,Residential - Single Family,627180,6066 Arbor Watch Loop,Orlando
+4,2,1850,5999,Residential - Single Family,569940,5420 Log Grove Ln,Orlando
+1,1,730,3668,Condominium,285000,155 S Court Ave #2407,Orlando
+3,3,2411,6288,Residential - Single Family,753499,50 Pearson,Orlando
+4,4,2247,3615,Residential - Single Family,713336,46 Pearson Ave,Orlando
+5,5,3909,5607,Residential - Single Family,913425,126 N Peebles St,Orlando
+4,4,4226,7200,Residential - Single Family,841659,128 Plane Tree St,Orlando
+4,4,2688,6000,Residential - Single Family,691284,108 Allium Pl,Orlando
+2,1,722,6949,Residential - Single Family,180000,640 Grand St,Orlando
+1,1,770,9693,Condominium,169990,2314 Midtown Ter #1136,Orlando
+1,2,1400,32883,Condominium,419000,100 S Eola Dr #1012,Orlando
+2,2,2495,13663,Condominium,899000,530 E Central Blvd #1901,Orlando
+3,3,1700,3753,Townhouse,479000,2513 E Central Blvd #A,Orlando
+2,1,1208,1033700,Condominium,169999,4111 S Semoran Blvd #7,Orlando
+3,2,1146,6331,Condominium,235000,5811 Windhover Dr #3-E06-2,Orlando
+3,3,1682,980,Townhouse,319000,6258 Castelven Dr #104,Orlando
+5,4,3417,9651,Residential - Single Family,550000,7443 Chelsea Harbour Dr,Orlando
+5,4,3447,7497,Residential - Single Family,1144626,1415 Christy Ave,Orlando
+5,5,3420,7049,Residential - Single Family,1395000,26 W Steele St,Orlando
+2,2,1080,48330,Condominium,209900,4806 Normandy Pl #E-203,Orlando
+4,2,2078,11711,Residential - Single Family,451200,3150 Heathgate Ct,Orlando
+4,4,2688,6250,Residential - Single Family,553000,1102 Fox Hedge Ln,Saint Cloud
+2,2,1248,57259,Condominium,565000,150 E Robinson St #29B-4 (2907),Orlando
+5,5,4100,7368,Residential - Single Family,874935,2 Mowry Ct,Orlando
+3,3,2559,6604,Residential - Single Family,495500,5149 Jetsail Dr,Orlando
+NaN,NaN,7121,NaN,Land,289000,207 Page St,Orlando
+3,2,1103,13288,Residential - Single Family,549000,219 Page St,Orlando
+2,1,848,13280,Residential - Single Family,432000,201 Page St,Orlando
+3,2,1376,15513,Residential - Single Family,512000,215 Page St,Orlando
+4,3,2963,9337,Residential - Single Family,990000,2204 Vivada St,Orlando
+3,2,1459,10262,Residential - Single Family,220000,5399 Aeolus Way,Orlando
+2,2,1486,0,Condominium,434990,7521 Laureate Blvd #5105,Orlando
+4,4,3506,7199,Residential - Single Family,893341,22 Mowry St,Orlando
+4,3,2963,8856,Residential - Single Family,969146,1208 Latta Ln,Orlando
+4,4,3100,7199,Residential - Single Family,783321,133 Blueleaf St,Orlando
+4,3,2883,7842,Residential - Single Family,781196,13139 Mcmillian Dr,Orlando
+4,4,2328,3692,Residential - Single Family,805150,9923 Pearson,Orlando
+3,2,1245,8504,Condominium,208000,4316 S Kirkman Rd #1616,Orlando
+4,4,1815,1249,Townhouse,639995,2154 Whitney Marsh Aly,Orlando
+5,4,3060,9269,Residential - Single Family,826529,13127 Mcmillian Dr,Orlando
+4,6,4764,13317,Residential - Single Family,3600000,10489 Cromwell Grove Ter,Orlando
+4,4,2085,1686,Townhouse,788095,2253 Velentine Aly,Orlando
+3,4,2085,1717,Townhouse,709995,2158 Whitney Marsh Aly,Orlando
+5,6,5479,9761,Residential - Single Family,1299990,11657 Savona Way,Orlando
+2,2,1368,NaN,Condominium,399990,7521 Laureate Blvd #5401,Orlando
+3,2,1805,0,Condominium,469990,7521 Laureate Blvd #5202,Orlando
+2,2,1549,0,Condominium,464990,7521 Laureate Blvd #5206,Orlando
+2,2,1486,0,Condominium,406990,7521 Laureate Blvd #5104,Orlando
+3,1,1020,7130,Residential - Single Family,204900,4243 Kirkland Blvd,Orlando
+4,4,2688,6000,Residential - Single Family,845852,18867 Planetree St,Orlando
+4,4,3100,7199,Residential - Single Family,973715,18883 Planetree St,Orlando
+3,2,1016,3999,Residential - Single Family,190000,5440 Wood Crossing St,Orlando
+4,2,1959,5738,Residential - Single Family,420000,6097 Froggatt St,Orlando
+2,2,1515,5498,Residential - Single Family,425000,715 Briercliff Dr,Orlando
+4,2.1,1882,NaN,Single Family - Detached,620000,21 N Hampton Ave,Orlando
+4,2.1,1882,NaN,Single Family - Detached,620000,13 N Hampton Ave,Orlando
+4,3,2687,7199,Residential - Single Family,733555,181 Rawson St,Orlando
+2,3,1285,2620,Condominium,209900,5384 Elm Ct #357,Orlando
+2,2,934,8609,Condominium,162000,1071 S Hiawassee Rd #1221,Orlando
+4,3,2963,11253,Residential - Single Family,943500,375 Niblick Way,Orlando
+5,3,2327,6774,Residential - Single Family,851518,1127 W Harvard St,Orlando
+5,3,2327,6209,Residential - Single Family,966000,821 Dartmouth St,Orlando
+2,3,1174,2347,Townhouse,325000,9136 Camden Gardens St,Orlando
+3,2,1183,7199,Residential - Single Family,185000,1017 Columbia St,Orlando
+3,3,1698,5511,Residential - Single Family,230000,9797 Tiramasu Trl,Orlando
+3,3,1592,6612,Attached Single Family Home,550600,513 W Princeton St,Orlando
+3,3,1710,6612,Attached Single Family Home,584900,513 W Princeton-a St,Orlando
+2,3,2085,1723,Townhouse,639995,2050 Packing District Way,Orlando
+4,3,1882,3798,Residential - Single Family,620000,21 N Hampton #LOT 2,Orlando
+4,3,1882,3798,Residential - Single Family,620000,13 N Hampton #LOT 3,Orlando
+5,4,3060,9269,Residential - Single Family,779294,10 Mcmillian Dr,Orlando
+3,4,2085,1723,Townhouse,651995,2066 Packing District Way,Orlando
+NaN,NaN,233482,NaN,Land,2000000,4798 Commander Dr,Orlando
+2,1,720,9493,Residential - Single Family,150000,1831 Riley Ave,Orlando
+2,2,1093,18491,Condominium,115000,5572 Metrowest Blvd #205,Orlando
+NaN,NaN,38333,NaN,Land,975000,430 South Orange Blossom Trail,Orlando
+3,4,2100,42714,Townhouse,530000,62 W Jersey St #15,Orlando
+2,1,915,10935,1/2 Duplex,249900,3053 Graceland Ct,Orlando
+3,3,1690,9286,Townhouse,444900,1213 E Muriel St,Orlando
+4,4,3114,8489,Single Family Residential,550000,14823 Golden Sunburst Ave,Orlando
+3,2,1350,4676,1/2 Duplex,199000,1203 Hendren Dr,Orlando
+2,2,1230,946,Townhouse,225000,5059 Ernst Ct #12,Orlando
+3,3,1680,9286,Townhouse,425000,1211 E Muriel St,Orlando
+3,3,1883,3203,Townhouse,369000,8540 Vedder Ln,Orlando
+4,4,3000,6499,Single Family Residential,685000,11826 Aurelio Ln,Orlando
+3,3,2109,8426,Single Family Residential,485000,1039 Lenmore Ct,Orlando
+3,3,1680,9286,Townhouse,424900,1215 E Muriel St,Orlando
+5,5,4002,9100,Single Family Residential,1225000,9430 Becker Ct,Orlando
+5,5,3467,8774,Single Family Residential,890589,13084 Upper Harden Ave,Orlando
+4,3,2120,5944,Single Family Residential,495000,10667 Billings St,Orlando
+2,3,1285,2588,Condominium,180000,5253 Middle Ct #136,Orlando 
